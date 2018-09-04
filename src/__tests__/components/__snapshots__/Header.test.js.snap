@@ -21,45 +21,35 @@ ShallowWrapper {
           Portfolio header
 </h1>,
         <nav>
-          <ul>
-                    <li>
-                              <NavLink
-                                        activeClassName="is-active"
-                                        aria-current="page"
-                                        exact={true}
-                                        to="/"
-                              >
-                                        About
-                              </NavLink>
-                    </li>
-                    <li>
-                              <NavLink
-                                        activeClassName="is-active"
-                                        aria-current="page"
-                                        to="/portfolio"
-                              >
-                                        Portfolio
-                              </NavLink>
-                    </li>
-                    <li>
-                              <NavLink
-                                        activeClassName="is-active"
-                                        aria-current="page"
-                                        to="/blog"
-                              >
-                                        Blog
-                              </NavLink>
-                    </li>
-                    <li>
-                              <NavLink
-                                        activeClassName="is-active"
-                                        aria-current="page"
-                                        to="/contact"
-                              >
-                                        Contact
-                              </NavLink>
-                    </li>
-          </ul>
+          <NavLink
+                    activeClassName="is-active"
+                    aria-current="page"
+                    exact={true}
+                    to="/"
+          >
+                    About
+          </NavLink>
+          <NavLink
+                    activeClassName="is-active"
+                    aria-current="page"
+                    to="/portfolio"
+          >
+                    Portfolio
+          </NavLink>
+          <NavLink
+                    activeClassName="is-active"
+                    aria-current="page"
+                    to="/blog"
+          >
+                    Blog
+          </NavLink>
+          <NavLink
+                    activeClassName="is-active"
+                    aria-current="page"
+                    to="/contact"
+          >
+                    Contact
+          </NavLink>
 </nav>,
       ],
     },
@@ -81,219 +71,98 @@ ShallowWrapper {
         "key": undefined,
         "nodeType": "host",
         "props": Object {
-          "children": <ul>
-            <li>
-                        <NavLink
-                                    activeClassName="is-active"
-                                    aria-current="page"
-                                    exact={true}
-                                    to="/"
-                        >
-                                    About
-                        </NavLink>
-            </li>
-            <li>
-                        <NavLink
-                                    activeClassName="is-active"
-                                    aria-current="page"
-                                    to="/portfolio"
-                        >
-                                    Portfolio
-                        </NavLink>
-            </li>
-            <li>
-                        <NavLink
-                                    activeClassName="is-active"
-                                    aria-current="page"
-                                    to="/blog"
-                        >
-                                    Blog
-                        </NavLink>
-            </li>
-            <li>
-                        <NavLink
-                                    activeClassName="is-active"
-                                    aria-current="page"
-                                    to="/contact"
-                        >
-                                    Contact
-                        </NavLink>
-            </li>
-</ul>,
+          "children": Array [
+            <NavLink
+              activeClassName="is-active"
+              aria-current="page"
+              exact={true}
+              to="/"
+>
+              About
+</NavLink>,
+            <NavLink
+              activeClassName="is-active"
+              aria-current="page"
+              to="/portfolio"
+>
+              Portfolio
+</NavLink>,
+            <NavLink
+              activeClassName="is-active"
+              aria-current="page"
+              to="/blog"
+>
+              Blog
+</NavLink>,
+            <NavLink
+              activeClassName="is-active"
+              aria-current="page"
+              to="/contact"
+>
+              Contact
+</NavLink>,
+          ],
         },
         "ref": null,
-        "rendered": Object {
-          "instance": null,
-          "key": undefined,
-          "nodeType": "host",
-          "props": Object {
-            "children": Array [
-              <li>
-                <NavLink
-                                activeClassName="is-active"
-                                aria-current="page"
-                                exact={true}
-                                to="/"
-                >
-                                About
-                </NavLink>
-</li>,
-              <li>
-                <NavLink
-                                activeClassName="is-active"
-                                aria-current="page"
-                                to="/portfolio"
-                >
-                                Portfolio
-                </NavLink>
-</li>,
-              <li>
-                <NavLink
-                                activeClassName="is-active"
-                                aria-current="page"
-                                to="/blog"
-                >
-                                Blog
-                </NavLink>
-</li>,
-              <li>
-                <NavLink
-                                activeClassName="is-active"
-                                aria-current="page"
-                                to="/contact"
-                >
-                                Contact
-                </NavLink>
-</li>,
-            ],
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "activeClassName": "is-active",
+              "aria-current": "page",
+              "children": "About",
+              "exact": true,
+              "to": "/",
+            },
+            "ref": null,
+            "rendered": "About",
+            "type": [Function],
           },
-          "ref": null,
-          "rendered": Array [
-            Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "host",
-              "props": Object {
-                "children": <NavLink
-                  activeClassName="is-active"
-                  aria-current="page"
-                  exact={true}
-                  to="/"
->
-                  About
-</NavLink>,
-              },
-              "ref": null,
-              "rendered": Object {
-                "instance": null,
-                "key": undefined,
-                "nodeType": "function",
-                "props": Object {
-                  "activeClassName": "is-active",
-                  "aria-current": "page",
-                  "children": "About",
-                  "exact": true,
-                  "to": "/",
-                },
-                "ref": null,
-                "rendered": "About",
-                "type": [Function],
-              },
-              "type": "li",
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "activeClassName": "is-active",
+              "aria-current": "page",
+              "children": "Portfolio",
+              "to": "/portfolio",
             },
-            Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "host",
-              "props": Object {
-                "children": <NavLink
-                  activeClassName="is-active"
-                  aria-current="page"
-                  to="/portfolio"
->
-                  Portfolio
-</NavLink>,
-              },
-              "ref": null,
-              "rendered": Object {
-                "instance": null,
-                "key": undefined,
-                "nodeType": "function",
-                "props": Object {
-                  "activeClassName": "is-active",
-                  "aria-current": "page",
-                  "children": "Portfolio",
-                  "to": "/portfolio",
-                },
-                "ref": null,
-                "rendered": "Portfolio",
-                "type": [Function],
-              },
-              "type": "li",
+            "ref": null,
+            "rendered": "Portfolio",
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "activeClassName": "is-active",
+              "aria-current": "page",
+              "children": "Blog",
+              "to": "/blog",
             },
-            Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "host",
-              "props": Object {
-                "children": <NavLink
-                  activeClassName="is-active"
-                  aria-current="page"
-                  to="/blog"
->
-                  Blog
-</NavLink>,
-              },
-              "ref": null,
-              "rendered": Object {
-                "instance": null,
-                "key": undefined,
-                "nodeType": "function",
-                "props": Object {
-                  "activeClassName": "is-active",
-                  "aria-current": "page",
-                  "children": "Blog",
-                  "to": "/blog",
-                },
-                "ref": null,
-                "rendered": "Blog",
-                "type": [Function],
-              },
-              "type": "li",
+            "ref": null,
+            "rendered": "Blog",
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "activeClassName": "is-active",
+              "aria-current": "page",
+              "children": "Contact",
+              "to": "/contact",
             },
-            Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "host",
-              "props": Object {
-                "children": <NavLink
-                  activeClassName="is-active"
-                  aria-current="page"
-                  to="/contact"
->
-                  Contact
-</NavLink>,
-              },
-              "ref": null,
-              "rendered": Object {
-                "instance": null,
-                "key": undefined,
-                "nodeType": "function",
-                "props": Object {
-                  "activeClassName": "is-active",
-                  "aria-current": "page",
-                  "children": "Contact",
-                  "to": "/contact",
-                },
-                "ref": null,
-                "rendered": "Contact",
-                "type": [Function],
-              },
-              "type": "li",
-            },
-          ],
-          "type": "ul",
-        },
+            "ref": null,
+            "rendered": "Contact",
+            "type": [Function],
+          },
+        ],
         "type": "nav",
       },
     ],
@@ -310,45 +179,35 @@ ShallowWrapper {
             Portfolio header
 </h1>,
           <nav>
-            <ul>
-                        <li>
-                                    <NavLink
-                                                activeClassName="is-active"
-                                                aria-current="page"
-                                                exact={true}
-                                                to="/"
-                                    >
-                                                About
-                                    </NavLink>
-                        </li>
-                        <li>
-                                    <NavLink
-                                                activeClassName="is-active"
-                                                aria-current="page"
-                                                to="/portfolio"
-                                    >
-                                                Portfolio
-                                    </NavLink>
-                        </li>
-                        <li>
-                                    <NavLink
-                                                activeClassName="is-active"
-                                                aria-current="page"
-                                                to="/blog"
-                                    >
-                                                Blog
-                                    </NavLink>
-                        </li>
-                        <li>
-                                    <NavLink
-                                                activeClassName="is-active"
-                                                aria-current="page"
-                                                to="/contact"
-                                    >
-                                                Contact
-                                    </NavLink>
-                        </li>
-            </ul>
+            <NavLink
+                        activeClassName="is-active"
+                        aria-current="page"
+                        exact={true}
+                        to="/"
+            >
+                        About
+            </NavLink>
+            <NavLink
+                        activeClassName="is-active"
+                        aria-current="page"
+                        to="/portfolio"
+            >
+                        Portfolio
+            </NavLink>
+            <NavLink
+                        activeClassName="is-active"
+                        aria-current="page"
+                        to="/blog"
+            >
+                        Blog
+            </NavLink>
+            <NavLink
+                        activeClassName="is-active"
+                        aria-current="page"
+                        to="/contact"
+            >
+                        Contact
+            </NavLink>
 </nav>,
         ],
       },
@@ -370,219 +229,98 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "host",
           "props": Object {
-            "children": <ul>
-              <li>
-                            <NavLink
-                                          activeClassName="is-active"
-                                          aria-current="page"
-                                          exact={true}
-                                          to="/"
-                            >
-                                          About
-                            </NavLink>
-              </li>
-              <li>
-                            <NavLink
-                                          activeClassName="is-active"
-                                          aria-current="page"
-                                          to="/portfolio"
-                            >
-                                          Portfolio
-                            </NavLink>
-              </li>
-              <li>
-                            <NavLink
-                                          activeClassName="is-active"
-                                          aria-current="page"
-                                          to="/blog"
-                            >
-                                          Blog
-                            </NavLink>
-              </li>
-              <li>
-                            <NavLink
-                                          activeClassName="is-active"
-                                          aria-current="page"
-                                          to="/contact"
-                            >
-                                          Contact
-                            </NavLink>
-              </li>
-</ul>,
+            "children": Array [
+              <NavLink
+                activeClassName="is-active"
+                aria-current="page"
+                exact={true}
+                to="/"
+>
+                About
+</NavLink>,
+              <NavLink
+                activeClassName="is-active"
+                aria-current="page"
+                to="/portfolio"
+>
+                Portfolio
+</NavLink>,
+              <NavLink
+                activeClassName="is-active"
+                aria-current="page"
+                to="/blog"
+>
+                Blog
+</NavLink>,
+              <NavLink
+                activeClassName="is-active"
+                aria-current="page"
+                to="/contact"
+>
+                Contact
+</NavLink>,
+            ],
           },
           "ref": null,
-          "rendered": Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {
-              "children": Array [
-                <li>
-                  <NavLink
-                                    activeClassName="is-active"
-                                    aria-current="page"
-                                    exact={true}
-                                    to="/"
-                  >
-                                    About
-                  </NavLink>
-</li>,
-                <li>
-                  <NavLink
-                                    activeClassName="is-active"
-                                    aria-current="page"
-                                    to="/portfolio"
-                  >
-                                    Portfolio
-                  </NavLink>
-</li>,
-                <li>
-                  <NavLink
-                                    activeClassName="is-active"
-                                    aria-current="page"
-                                    to="/blog"
-                  >
-                                    Blog
-                  </NavLink>
-</li>,
-                <li>
-                  <NavLink
-                                    activeClassName="is-active"
-                                    aria-current="page"
-                                    to="/contact"
-                  >
-                                    Contact
-                  </NavLink>
-</li>,
-              ],
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "activeClassName": "is-active",
+                "aria-current": "page",
+                "children": "About",
+                "exact": true,
+                "to": "/",
+              },
+              "ref": null,
+              "rendered": "About",
+              "type": [Function],
             },
-            "ref": null,
-            "rendered": Array [
-              Object {
-                "instance": null,
-                "key": undefined,
-                "nodeType": "host",
-                "props": Object {
-                  "children": <NavLink
-                    activeClassName="is-active"
-                    aria-current="page"
-                    exact={true}
-                    to="/"
->
-                    About
-</NavLink>,
-                },
-                "ref": null,
-                "rendered": Object {
-                  "instance": null,
-                  "key": undefined,
-                  "nodeType": "function",
-                  "props": Object {
-                    "activeClassName": "is-active",
-                    "aria-current": "page",
-                    "children": "About",
-                    "exact": true,
-                    "to": "/",
-                  },
-                  "ref": null,
-                  "rendered": "About",
-                  "type": [Function],
-                },
-                "type": "li",
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "activeClassName": "is-active",
+                "aria-current": "page",
+                "children": "Portfolio",
+                "to": "/portfolio",
               },
-              Object {
-                "instance": null,
-                "key": undefined,
-                "nodeType": "host",
-                "props": Object {
-                  "children": <NavLink
-                    activeClassName="is-active"
-                    aria-current="page"
-                    to="/portfolio"
->
-                    Portfolio
-</NavLink>,
-                },
-                "ref": null,
-                "rendered": Object {
-                  "instance": null,
-                  "key": undefined,
-                  "nodeType": "function",
-                  "props": Object {
-                    "activeClassName": "is-active",
-                    "aria-current": "page",
-                    "children": "Portfolio",
-                    "to": "/portfolio",
-                  },
-                  "ref": null,
-                  "rendered": "Portfolio",
-                  "type": [Function],
-                },
-                "type": "li",
+              "ref": null,
+              "rendered": "Portfolio",
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "activeClassName": "is-active",
+                "aria-current": "page",
+                "children": "Blog",
+                "to": "/blog",
               },
-              Object {
-                "instance": null,
-                "key": undefined,
-                "nodeType": "host",
-                "props": Object {
-                  "children": <NavLink
-                    activeClassName="is-active"
-                    aria-current="page"
-                    to="/blog"
->
-                    Blog
-</NavLink>,
-                },
-                "ref": null,
-                "rendered": Object {
-                  "instance": null,
-                  "key": undefined,
-                  "nodeType": "function",
-                  "props": Object {
-                    "activeClassName": "is-active",
-                    "aria-current": "page",
-                    "children": "Blog",
-                    "to": "/blog",
-                  },
-                  "ref": null,
-                  "rendered": "Blog",
-                  "type": [Function],
-                },
-                "type": "li",
+              "ref": null,
+              "rendered": "Blog",
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "activeClassName": "is-active",
+                "aria-current": "page",
+                "children": "Contact",
+                "to": "/contact",
               },
-              Object {
-                "instance": null,
-                "key": undefined,
-                "nodeType": "host",
-                "props": Object {
-                  "children": <NavLink
-                    activeClassName="is-active"
-                    aria-current="page"
-                    to="/contact"
->
-                    Contact
-</NavLink>,
-                },
-                "ref": null,
-                "rendered": Object {
-                  "instance": null,
-                  "key": undefined,
-                  "nodeType": "function",
-                  "props": Object {
-                    "activeClassName": "is-active",
-                    "aria-current": "page",
-                    "children": "Contact",
-                    "to": "/contact",
-                  },
-                  "ref": null,
-                  "rendered": "Contact",
-                  "type": [Function],
-                },
-                "type": "li",
-              },
-            ],
-            "type": "ul",
-          },
+              "ref": null,
+              "rendered": "Contact",
+              "type": [Function],
+            },
+          ],
           "type": "nav",
         },
       ],
