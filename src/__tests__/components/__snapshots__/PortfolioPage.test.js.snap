@@ -252,7 +252,78 @@ ShallowWrapper {
                                                   I was the lead on this project when I was still realtively new to Viscira. The requirements from the client was unique. They had their own enterprsie iPad container that could accept webpages. I recommended that we use Angular 2 with the CLI to quickly build out the pages and router needed to move between the nav and subnav pages.
                                         </CardText>
                                         <div>
-                                                  Add screenshots here
+                                                  <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinHomepage.png"
+                                                            width="100"
+                                                  />
+                                                  <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinIntroduction.png"
+                                                            width="100"
+                                                  />
+                                                  <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinCaseStudy.png"
+                                                            width="100"
+                                                  />
+                                                  <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinChart.png"
+                                                            width="100"
+                                                  />
+                                                  <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinRatingScale.png"
+                                                            width="100"
+                                                  />
+                                                  <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinCaseStudies.png"
+                                                            width="100"
+                                                  />
+                                                  <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinCaseStudyWithAnswer.png"
+                                                            width="100"
+                                                  />
+                                                  <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarineCaseStudyWithWrongAnswer.png"
+                                                            width="100"
+                                                  />
+                                                  <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinVideoModal.png"
+                                                            width="100"
+                                                  />
+                                                  <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinVideoModal2.png"
+                                                            width="100"
+                                                  />
+                                                  <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinVideoPlayer.png"
+                                                            width="100"
+                                                  />
+                                                  <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinSummary.png"
+                                                            width="100"
+                                                  />
                                         </div>
                               </CardBody>
                     </Card>
@@ -1660,7 +1731,78 @@ ShallowWrapper {
                                                         I was the lead on this project when I was still realtively new to Viscira. The requirements from the client was unique. They had their own enterprsie iPad container that could accept webpages. I recommended that we use Angular 2 with the CLI to quickly build out the pages and router needed to move between the nav and subnav pages.
                                           </CardText>
                                           <div>
-                                                        Add screenshots here
+                                                        <img
+                                                                      alt=""
+                                                                      height="100"
+                                                                      src="BiomarinHomepage.png"
+                                                                      width="100"
+                                                        />
+                                                        <img
+                                                                      alt=""
+                                                                      height="100"
+                                                                      src="BiomarinIntroduction.png"
+                                                                      width="100"
+                                                        />
+                                                        <img
+                                                                      alt=""
+                                                                      height="100"
+                                                                      src="BiomarinCaseStudy.png"
+                                                                      width="100"
+                                                        />
+                                                        <img
+                                                                      alt=""
+                                                                      height="100"
+                                                                      src="BiomarinChart.png"
+                                                                      width="100"
+                                                        />
+                                                        <img
+                                                                      alt=""
+                                                                      height="100"
+                                                                      src="BiomarinRatingScale.png"
+                                                                      width="100"
+                                                        />
+                                                        <img
+                                                                      alt=""
+                                                                      height="100"
+                                                                      src="BiomarinCaseStudies.png"
+                                                                      width="100"
+                                                        />
+                                                        <img
+                                                                      alt=""
+                                                                      height="100"
+                                                                      src="BiomarinCaseStudyWithAnswer.png"
+                                                                      width="100"
+                                                        />
+                                                        <img
+                                                                      alt=""
+                                                                      height="100"
+                                                                      src="BiomarineCaseStudyWithWrongAnswer.png"
+                                                                      width="100"
+                                                        />
+                                                        <img
+                                                                      alt=""
+                                                                      height="100"
+                                                                      src="BiomarinVideoModal.png"
+                                                                      width="100"
+                                                        />
+                                                        <img
+                                                                      alt=""
+                                                                      height="100"
+                                                                      src="BiomarinVideoModal2.png"
+                                                                      width="100"
+                                                        />
+                                                        <img
+                                                                      alt=""
+                                                                      height="100"
+                                                                      src="BiomarinVideoPlayer.png"
+                                                                      width="100"
+                                                        />
+                                                        <img
+                                                                      alt=""
+                                                                      height="100"
+                                                                      src="BiomarinSummary.png"
+                                                                      width="100"
+                                                        />
                                           </div>
                             </CardBody>
               </Card>
@@ -1762,7 +1904,78 @@ ShallowWrapper {
                                                 I was the lead on this project when I was still realtively new to Viscira. The requirements from the client was unique. They had their own enterprsie iPad container that could accept webpages. I recommended that we use Angular 2 with the CLI to quickly build out the pages and router needed to move between the nav and subnav pages.
                                 </CardText>
                                 <div>
-                                                Add screenshots here
+                                                <img
+                                                                alt=""
+                                                                height="100"
+                                                                src="BiomarinHomepage.png"
+                                                                width="100"
+                                                />
+                                                <img
+                                                                alt=""
+                                                                height="100"
+                                                                src="BiomarinIntroduction.png"
+                                                                width="100"
+                                                />
+                                                <img
+                                                                alt=""
+                                                                height="100"
+                                                                src="BiomarinCaseStudy.png"
+                                                                width="100"
+                                                />
+                                                <img
+                                                                alt=""
+                                                                height="100"
+                                                                src="BiomarinChart.png"
+                                                                width="100"
+                                                />
+                                                <img
+                                                                alt=""
+                                                                height="100"
+                                                                src="BiomarinRatingScale.png"
+                                                                width="100"
+                                                />
+                                                <img
+                                                                alt=""
+                                                                height="100"
+                                                                src="BiomarinCaseStudies.png"
+                                                                width="100"
+                                                />
+                                                <img
+                                                                alt=""
+                                                                height="100"
+                                                                src="BiomarinCaseStudyWithAnswer.png"
+                                                                width="100"
+                                                />
+                                                <img
+                                                                alt=""
+                                                                height="100"
+                                                                src="BiomarineCaseStudyWithWrongAnswer.png"
+                                                                width="100"
+                                                />
+                                                <img
+                                                                alt=""
+                                                                height="100"
+                                                                src="BiomarinVideoModal.png"
+                                                                width="100"
+                                                />
+                                                <img
+                                                                alt=""
+                                                                height="100"
+                                                                src="BiomarinVideoModal2.png"
+                                                                width="100"
+                                                />
+                                                <img
+                                                                alt=""
+                                                                height="100"
+                                                                src="BiomarinVideoPlayer.png"
+                                                                width="100"
+                                                />
+                                                <img
+                                                                alt=""
+                                                                height="100"
+                                                                src="BiomarinSummary.png"
+                                                                width="100"
+                                                />
                                 </div>
                 </CardBody>
 </Card>,
@@ -1797,7 +2010,78 @@ ShallowWrapper {
                                         I was the lead on this project when I was still realtively new to Viscira. The requirements from the client was unique. They had their own enterprsie iPad container that could accept webpages. I recommended that we use Angular 2 with the CLI to quickly build out the pages and router needed to move between the nav and subnav pages.
                     </CardText>
                     <div>
-                                        Add screenshots here
+                                        <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinHomepage.png"
+                                                            width="100"
+                                        />
+                                        <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinIntroduction.png"
+                                                            width="100"
+                                        />
+                                        <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinCaseStudy.png"
+                                                            width="100"
+                                        />
+                                        <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinChart.png"
+                                                            width="100"
+                                        />
+                                        <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinRatingScale.png"
+                                                            width="100"
+                                        />
+                                        <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinCaseStudies.png"
+                                                            width="100"
+                                        />
+                                        <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinCaseStudyWithAnswer.png"
+                                                            width="100"
+                                        />
+                                        <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarineCaseStudyWithWrongAnswer.png"
+                                                            width="100"
+                                        />
+                                        <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinVideoModal.png"
+                                                            width="100"
+                                        />
+                                        <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinVideoModal2.png"
+                                                            width="100"
+                                        />
+                                        <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinVideoPlayer.png"
+                                                            width="100"
+                                        />
+                                        <img
+                                                            alt=""
+                                                            height="100"
+                                                            src="BiomarinSummary.png"
+                                                            width="100"
+                                        />
                     </div>
 </CardBody>,
                 ],
@@ -1829,7 +2113,78 @@ ShallowWrapper {
                         I was the lead on this project when I was still realtively new to Viscira. The requirements from the client was unique. They had their own enterprsie iPad container that could accept webpages. I recommended that we use Angular 2 with the CLI to quickly build out the pages and router needed to move between the nav and subnav pages.
 </CardText>,
                       <div>
-                        Add screenshots here
+                        <img
+                                                alt=""
+                                                height="100"
+                                                src="BiomarinHomepage.png"
+                                                width="100"
+                        />
+                        <img
+                                                alt=""
+                                                height="100"
+                                                src="BiomarinIntroduction.png"
+                                                width="100"
+                        />
+                        <img
+                                                alt=""
+                                                height="100"
+                                                src="BiomarinCaseStudy.png"
+                                                width="100"
+                        />
+                        <img
+                                                alt=""
+                                                height="100"
+                                                src="BiomarinChart.png"
+                                                width="100"
+                        />
+                        <img
+                                                alt=""
+                                                height="100"
+                                                src="BiomarinRatingScale.png"
+                                                width="100"
+                        />
+                        <img
+                                                alt=""
+                                                height="100"
+                                                src="BiomarinCaseStudies.png"
+                                                width="100"
+                        />
+                        <img
+                                                alt=""
+                                                height="100"
+                                                src="BiomarinCaseStudyWithAnswer.png"
+                                                width="100"
+                        />
+                        <img
+                                                alt=""
+                                                height="100"
+                                                src="BiomarineCaseStudyWithWrongAnswer.png"
+                                                width="100"
+                        />
+                        <img
+                                                alt=""
+                                                height="100"
+                                                src="BiomarinVideoModal.png"
+                                                width="100"
+                        />
+                        <img
+                                                alt=""
+                                                height="100"
+                                                src="BiomarinVideoModal2.png"
+                                                width="100"
+                        />
+                        <img
+                                                alt=""
+                                                height="100"
+                                                src="BiomarinVideoPlayer.png"
+                                                width="100"
+                        />
+                        <img
+                                                alt=""
+                                                height="100"
+                                                src="BiomarinSummary.png"
+                                                width="100"
+                        />
 </div>,
                     ],
                     "tag": "div",
@@ -1853,10 +2208,252 @@ ShallowWrapper {
                       "key": undefined,
                       "nodeType": "host",
                       "props": Object {
-                        "children": "Add screenshots here",
+                        "children": Array [
+                          <img
+                            alt=""
+                            height="100"
+                            src="BiomarinHomepage.png"
+                            width="100"
+/>,
+                          <img
+                            alt=""
+                            height="100"
+                            src="BiomarinIntroduction.png"
+                            width="100"
+/>,
+                          <img
+                            alt=""
+                            height="100"
+                            src="BiomarinCaseStudy.png"
+                            width="100"
+/>,
+                          <img
+                            alt=""
+                            height="100"
+                            src="BiomarinChart.png"
+                            width="100"
+/>,
+                          <img
+                            alt=""
+                            height="100"
+                            src="BiomarinRatingScale.png"
+                            width="100"
+/>,
+                          <img
+                            alt=""
+                            height="100"
+                            src="BiomarinCaseStudies.png"
+                            width="100"
+/>,
+                          <img
+                            alt=""
+                            height="100"
+                            src="BiomarinCaseStudyWithAnswer.png"
+                            width="100"
+/>,
+                          <img
+                            alt=""
+                            height="100"
+                            src="BiomarineCaseStudyWithWrongAnswer.png"
+                            width="100"
+/>,
+                          <img
+                            alt=""
+                            height="100"
+                            src="BiomarinVideoModal.png"
+                            width="100"
+/>,
+                          <img
+                            alt=""
+                            height="100"
+                            src="BiomarinVideoModal2.png"
+                            width="100"
+/>,
+                          <img
+                            alt=""
+                            height="100"
+                            src="BiomarinVideoPlayer.png"
+                            width="100"
+/>,
+                          <img
+                            alt=""
+                            height="100"
+                            src="BiomarinSummary.png"
+                            width="100"
+/>,
+                        ],
                       },
                       "ref": null,
-                      "rendered": "Add screenshots here",
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "alt": "",
+                            "height": "100",
+                            "src": "BiomarinHomepage.png",
+                            "width": "100",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "img",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "alt": "",
+                            "height": "100",
+                            "src": "BiomarinIntroduction.png",
+                            "width": "100",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "img",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "alt": "",
+                            "height": "100",
+                            "src": "BiomarinCaseStudy.png",
+                            "width": "100",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "img",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "alt": "",
+                            "height": "100",
+                            "src": "BiomarinChart.png",
+                            "width": "100",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "img",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "alt": "",
+                            "height": "100",
+                            "src": "BiomarinRatingScale.png",
+                            "width": "100",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "img",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "alt": "",
+                            "height": "100",
+                            "src": "BiomarinCaseStudies.png",
+                            "width": "100",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "img",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "alt": "",
+                            "height": "100",
+                            "src": "BiomarinCaseStudyWithAnswer.png",
+                            "width": "100",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "img",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "alt": "",
+                            "height": "100",
+                            "src": "BiomarineCaseStudyWithWrongAnswer.png",
+                            "width": "100",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "img",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "alt": "",
+                            "height": "100",
+                            "src": "BiomarinVideoModal.png",
+                            "width": "100",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "img",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "alt": "",
+                            "height": "100",
+                            "src": "BiomarinVideoModal2.png",
+                            "width": "100",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "img",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "alt": "",
+                            "height": "100",
+                            "src": "BiomarinVideoPlayer.png",
+                            "width": "100",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "img",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "alt": "",
+                            "height": "100",
+                            "src": "BiomarinSummary.png",
+                            "width": "100",
+                          },
+                          "ref": null,
+                          "rendered": null,
+                          "type": "img",
+                        },
+                      ],
                       "type": "div",
                     },
                   ],
@@ -2950,7 +3547,78 @@ ShallowWrapper {
                                                             I was the lead on this project when I was still realtively new to Viscira. The requirements from the client was unique. They had their own enterprsie iPad container that could accept webpages. I recommended that we use Angular 2 with the CLI to quickly build out the pages and router needed to move between the nav and subnav pages.
                                                 </CardText>
                                                 <div>
-                                                            Add screenshots here
+                                                            <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinHomepage.png"
+                                                                        width="100"
+                                                            />
+                                                            <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinIntroduction.png"
+                                                                        width="100"
+                                                            />
+                                                            <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinCaseStudy.png"
+                                                                        width="100"
+                                                            />
+                                                            <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinChart.png"
+                                                                        width="100"
+                                                            />
+                                                            <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinRatingScale.png"
+                                                                        width="100"
+                                                            />
+                                                            <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinCaseStudies.png"
+                                                                        width="100"
+                                                            />
+                                                            <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinCaseStudyWithAnswer.png"
+                                                                        width="100"
+                                                            />
+                                                            <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarineCaseStudyWithWrongAnswer.png"
+                                                                        width="100"
+                                                            />
+                                                            <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinVideoModal.png"
+                                                                        width="100"
+                                                            />
+                                                            <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinVideoModal2.png"
+                                                                        width="100"
+                                                            />
+                                                            <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinVideoPlayer.png"
+                                                                        width="100"
+                                                            />
+                                                            <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinSummary.png"
+                                                                        width="100"
+                                                            />
                                                 </div>
                                     </CardBody>
                         </Card>
@@ -4358,7 +5026,78 @@ ShallowWrapper {
                                                                 I was the lead on this project when I was still realtively new to Viscira. The requirements from the client was unique. They had their own enterprsie iPad container that could accept webpages. I recommended that we use Angular 2 with the CLI to quickly build out the pages and router needed to move between the nav and subnav pages.
                                                 </CardText>
                                                 <div>
-                                                                Add screenshots here
+                                                                <img
+                                                                                alt=""
+                                                                                height="100"
+                                                                                src="BiomarinHomepage.png"
+                                                                                width="100"
+                                                                />
+                                                                <img
+                                                                                alt=""
+                                                                                height="100"
+                                                                                src="BiomarinIntroduction.png"
+                                                                                width="100"
+                                                                />
+                                                                <img
+                                                                                alt=""
+                                                                                height="100"
+                                                                                src="BiomarinCaseStudy.png"
+                                                                                width="100"
+                                                                />
+                                                                <img
+                                                                                alt=""
+                                                                                height="100"
+                                                                                src="BiomarinChart.png"
+                                                                                width="100"
+                                                                />
+                                                                <img
+                                                                                alt=""
+                                                                                height="100"
+                                                                                src="BiomarinRatingScale.png"
+                                                                                width="100"
+                                                                />
+                                                                <img
+                                                                                alt=""
+                                                                                height="100"
+                                                                                src="BiomarinCaseStudies.png"
+                                                                                width="100"
+                                                                />
+                                                                <img
+                                                                                alt=""
+                                                                                height="100"
+                                                                                src="BiomarinCaseStudyWithAnswer.png"
+                                                                                width="100"
+                                                                />
+                                                                <img
+                                                                                alt=""
+                                                                                height="100"
+                                                                                src="BiomarineCaseStudyWithWrongAnswer.png"
+                                                                                width="100"
+                                                                />
+                                                                <img
+                                                                                alt=""
+                                                                                height="100"
+                                                                                src="BiomarinVideoModal.png"
+                                                                                width="100"
+                                                                />
+                                                                <img
+                                                                                alt=""
+                                                                                height="100"
+                                                                                src="BiomarinVideoModal2.png"
+                                                                                width="100"
+                                                                />
+                                                                <img
+                                                                                alt=""
+                                                                                height="100"
+                                                                                src="BiomarinVideoPlayer.png"
+                                                                                width="100"
+                                                                />
+                                                                <img
+                                                                                alt=""
+                                                                                height="100"
+                                                                                src="BiomarinSummary.png"
+                                                                                width="100"
+                                                                />
                                                 </div>
                                 </CardBody>
                 </Card>
@@ -4460,7 +5199,78 @@ ShallowWrapper {
                                                       I was the lead on this project when I was still realtively new to Viscira. The requirements from the client was unique. They had their own enterprsie iPad container that could accept webpages. I recommended that we use Angular 2 with the CLI to quickly build out the pages and router needed to move between the nav and subnav pages.
                                     </CardText>
                                     <div>
-                                                      Add screenshots here
+                                                      <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinHomepage.png"
+                                                                        width="100"
+                                                      />
+                                                      <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinIntroduction.png"
+                                                                        width="100"
+                                                      />
+                                                      <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinCaseStudy.png"
+                                                                        width="100"
+                                                      />
+                                                      <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinChart.png"
+                                                                        width="100"
+                                                      />
+                                                      <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinRatingScale.png"
+                                                                        width="100"
+                                                      />
+                                                      <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinCaseStudies.png"
+                                                                        width="100"
+                                                      />
+                                                      <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinCaseStudyWithAnswer.png"
+                                                                        width="100"
+                                                      />
+                                                      <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarineCaseStudyWithWrongAnswer.png"
+                                                                        width="100"
+                                                      />
+                                                      <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinVideoModal.png"
+                                                                        width="100"
+                                                      />
+                                                      <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinVideoModal2.png"
+                                                                        width="100"
+                                                      />
+                                                      <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinVideoPlayer.png"
+                                                                        width="100"
+                                                      />
+                                                      <img
+                                                                        alt=""
+                                                                        height="100"
+                                                                        src="BiomarinSummary.png"
+                                                                        width="100"
+                                                      />
                                     </div>
                   </CardBody>
 </Card>,
@@ -4495,7 +5305,78 @@ ShallowWrapper {
                                             I was the lead on this project when I was still realtively new to Viscira. The requirements from the client was unique. They had their own enterprsie iPad container that could accept webpages. I recommended that we use Angular 2 with the CLI to quickly build out the pages and router needed to move between the nav and subnav pages.
                       </CardText>
                       <div>
-                                            Add screenshots here
+                                            <img
+                                                                  alt=""
+                                                                  height="100"
+                                                                  src="BiomarinHomepage.png"
+                                                                  width="100"
+                                            />
+                                            <img
+                                                                  alt=""
+                                                                  height="100"
+                                                                  src="BiomarinIntroduction.png"
+                                                                  width="100"
+                                            />
+                                            <img
+                                                                  alt=""
+                                                                  height="100"
+                                                                  src="BiomarinCaseStudy.png"
+                                                                  width="100"
+                                            />
+                                            <img
+                                                                  alt=""
+                                                                  height="100"
+                                                                  src="BiomarinChart.png"
+                                                                  width="100"
+                                            />
+                                            <img
+                                                                  alt=""
+                                                                  height="100"
+                                                                  src="BiomarinRatingScale.png"
+                                                                  width="100"
+                                            />
+                                            <img
+                                                                  alt=""
+                                                                  height="100"
+                                                                  src="BiomarinCaseStudies.png"
+                                                                  width="100"
+                                            />
+                                            <img
+                                                                  alt=""
+                                                                  height="100"
+                                                                  src="BiomarinCaseStudyWithAnswer.png"
+                                                                  width="100"
+                                            />
+                                            <img
+                                                                  alt=""
+                                                                  height="100"
+                                                                  src="BiomarineCaseStudyWithWrongAnswer.png"
+                                                                  width="100"
+                                            />
+                                            <img
+                                                                  alt=""
+                                                                  height="100"
+                                                                  src="BiomarinVideoModal.png"
+                                                                  width="100"
+                                            />
+                                            <img
+                                                                  alt=""
+                                                                  height="100"
+                                                                  src="BiomarinVideoModal2.png"
+                                                                  width="100"
+                                            />
+                                            <img
+                                                                  alt=""
+                                                                  height="100"
+                                                                  src="BiomarinVideoPlayer.png"
+                                                                  width="100"
+                                            />
+                                            <img
+                                                                  alt=""
+                                                                  height="100"
+                                                                  src="BiomarinSummary.png"
+                                                                  width="100"
+                                            />
                       </div>
 </CardBody>,
                   ],
@@ -4527,7 +5408,78 @@ ShallowWrapper {
                           I was the lead on this project when I was still realtively new to Viscira. The requirements from the client was unique. They had their own enterprsie iPad container that could accept webpages. I recommended that we use Angular 2 with the CLI to quickly build out the pages and router needed to move between the nav and subnav pages.
 </CardText>,
                         <div>
-                          Add screenshots here
+                          <img
+                                                    alt=""
+                                                    height="100"
+                                                    src="BiomarinHomepage.png"
+                                                    width="100"
+                          />
+                          <img
+                                                    alt=""
+                                                    height="100"
+                                                    src="BiomarinIntroduction.png"
+                                                    width="100"
+                          />
+                          <img
+                                                    alt=""
+                                                    height="100"
+                                                    src="BiomarinCaseStudy.png"
+                                                    width="100"
+                          />
+                          <img
+                                                    alt=""
+                                                    height="100"
+                                                    src="BiomarinChart.png"
+                                                    width="100"
+                          />
+                          <img
+                                                    alt=""
+                                                    height="100"
+                                                    src="BiomarinRatingScale.png"
+                                                    width="100"
+                          />
+                          <img
+                                                    alt=""
+                                                    height="100"
+                                                    src="BiomarinCaseStudies.png"
+                                                    width="100"
+                          />
+                          <img
+                                                    alt=""
+                                                    height="100"
+                                                    src="BiomarinCaseStudyWithAnswer.png"
+                                                    width="100"
+                          />
+                          <img
+                                                    alt=""
+                                                    height="100"
+                                                    src="BiomarineCaseStudyWithWrongAnswer.png"
+                                                    width="100"
+                          />
+                          <img
+                                                    alt=""
+                                                    height="100"
+                                                    src="BiomarinVideoModal.png"
+                                                    width="100"
+                          />
+                          <img
+                                                    alt=""
+                                                    height="100"
+                                                    src="BiomarinVideoModal2.png"
+                                                    width="100"
+                          />
+                          <img
+                                                    alt=""
+                                                    height="100"
+                                                    src="BiomarinVideoPlayer.png"
+                                                    width="100"
+                          />
+                          <img
+                                                    alt=""
+                                                    height="100"
+                                                    src="BiomarinSummary.png"
+                                                    width="100"
+                          />
 </div>,
                       ],
                       "tag": "div",
@@ -4551,10 +5503,252 @@ ShallowWrapper {
                         "key": undefined,
                         "nodeType": "host",
                         "props": Object {
-                          "children": "Add screenshots here",
+                          "children": Array [
+                            <img
+                              alt=""
+                              height="100"
+                              src="BiomarinHomepage.png"
+                              width="100"
+/>,
+                            <img
+                              alt=""
+                              height="100"
+                              src="BiomarinIntroduction.png"
+                              width="100"
+/>,
+                            <img
+                              alt=""
+                              height="100"
+                              src="BiomarinCaseStudy.png"
+                              width="100"
+/>,
+                            <img
+                              alt=""
+                              height="100"
+                              src="BiomarinChart.png"
+                              width="100"
+/>,
+                            <img
+                              alt=""
+                              height="100"
+                              src="BiomarinRatingScale.png"
+                              width="100"
+/>,
+                            <img
+                              alt=""
+                              height="100"
+                              src="BiomarinCaseStudies.png"
+                              width="100"
+/>,
+                            <img
+                              alt=""
+                              height="100"
+                              src="BiomarinCaseStudyWithAnswer.png"
+                              width="100"
+/>,
+                            <img
+                              alt=""
+                              height="100"
+                              src="BiomarineCaseStudyWithWrongAnswer.png"
+                              width="100"
+/>,
+                            <img
+                              alt=""
+                              height="100"
+                              src="BiomarinVideoModal.png"
+                              width="100"
+/>,
+                            <img
+                              alt=""
+                              height="100"
+                              src="BiomarinVideoModal2.png"
+                              width="100"
+/>,
+                            <img
+                              alt=""
+                              height="100"
+                              src="BiomarinVideoPlayer.png"
+                              width="100"
+/>,
+                            <img
+                              alt=""
+                              height="100"
+                              src="BiomarinSummary.png"
+                              width="100"
+/>,
+                          ],
                         },
                         "ref": null,
-                        "rendered": "Add screenshots here",
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "alt": "",
+                              "height": "100",
+                              "src": "BiomarinHomepage.png",
+                              "width": "100",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "img",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "alt": "",
+                              "height": "100",
+                              "src": "BiomarinIntroduction.png",
+                              "width": "100",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "img",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "alt": "",
+                              "height": "100",
+                              "src": "BiomarinCaseStudy.png",
+                              "width": "100",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "img",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "alt": "",
+                              "height": "100",
+                              "src": "BiomarinChart.png",
+                              "width": "100",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "img",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "alt": "",
+                              "height": "100",
+                              "src": "BiomarinRatingScale.png",
+                              "width": "100",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "img",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "alt": "",
+                              "height": "100",
+                              "src": "BiomarinCaseStudies.png",
+                              "width": "100",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "img",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "alt": "",
+                              "height": "100",
+                              "src": "BiomarinCaseStudyWithAnswer.png",
+                              "width": "100",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "img",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "alt": "",
+                              "height": "100",
+                              "src": "BiomarineCaseStudyWithWrongAnswer.png",
+                              "width": "100",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "img",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "alt": "",
+                              "height": "100",
+                              "src": "BiomarinVideoModal.png",
+                              "width": "100",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "img",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "alt": "",
+                              "height": "100",
+                              "src": "BiomarinVideoModal2.png",
+                              "width": "100",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "img",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "alt": "",
+                              "height": "100",
+                              "src": "BiomarinVideoPlayer.png",
+                              "width": "100",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "img",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "alt": "",
+                              "height": "100",
+                              "src": "BiomarinSummary.png",
+                              "width": "100",
+                            },
+                            "ref": null,
+                            "rendered": null,
+                            "type": "img",
+                          },
+                        ],
                         "type": "div",
                       },
                     ],

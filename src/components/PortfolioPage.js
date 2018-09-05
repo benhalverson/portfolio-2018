@@ -28,6 +28,19 @@ import OptionsIncomeFinderMiniBacktester from '../images/OptionsIncomeFinderMini
 import OptionsIncomeFinderResults from '../images/OptionsIncomeFinderResults.png';
 import OptionsIncomeFinderSearch from '../images/OptionsIncomeFinderSearch.png';
 
+import BiomarinCaseStudies from '../images/BiomarinCaseStudies.png';
+import BiomarinCaseStudy from '../images/BiomarinCaseStudy.png';
+import BiomarinCaseStudyWithAnswer from '../images/BiomarinCaseStudyWithAnswer.png';
+import BiomarinChart from '../images/BiomarinChart.png';
+import BiomarinCaseStudyWithWrongAnswer from '../images/BiomarineCaseStudyWithWrongAnswer.png';
+import BiomarinHomePage from '../images/BiomarinHomePage.png';
+import BiomarinIntroduction from '../images/BiomarinIntroduction.png';
+import BiomarinRatingScale from '../images/BiomarinRatingScale.png';
+import BiomarinSummary from '../images/BiomarinSummary.png';
+import BiomarinVideoModal from '../images/BiomarinVideoModal.png';
+import BiomarinVideoModal2 from '../images/BiomarinVideoModal2.png';
+import BiomarinVideoPlayer from '../images/BiomarinVideoPlayer.png';
+
 import jazz001 from '../images/Jazz-Erwinize001.png';
 import jazz002 from '../images/Jazz-Erwinize002.png';
 import jazz003 from '../images/Jazz-Erwinize003.png';
@@ -114,7 +127,20 @@ const PortfolioPage = () => (
               out the pages and router needed to move between the nav and subnav
               pages.
             </CardText>
-            <div>Add screenshots here</div>
+            <div>
+              <img src={BiomarinHomePage} alt="" width="100" height="100" />
+              <img src={BiomarinIntroduction} alt="" width="100" height="100" />
+              <img src={BiomarinCaseStudy} alt="" width="100" height="100" />
+              <img src={BiomarinChart} alt="" width="100" height="100" />
+              <img src={BiomarinRatingScale} alt="" width="100" height="100" />
+              <img src={BiomarinCaseStudies} alt="" width="100" height="100" />
+              <img src={BiomarinCaseStudyWithAnswer} alt="" width="100" height="100" />
+              <img src={BiomarinCaseStudyWithWrongAnswer} alt="" width="100" height="100" />
+              <img src={BiomarinVideoModal} alt="" width="100" height="100" />
+              <img src={BiomarinVideoModal2} alt="" width="100" height="100" />
+              <img src={BiomarinVideoPlayer} alt="" width="100" height="100" />
+              <img src={BiomarinSummary} alt="" width="100" height="100" />
+            </div>
           </CardBody>
         </Card>
       </Col>
