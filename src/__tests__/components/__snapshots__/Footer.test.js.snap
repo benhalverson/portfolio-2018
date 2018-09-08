@@ -19,13 +19,31 @@ ShallowWrapper {
       "children": <nav>
         <ul>
                 <li>
-                        Github
+                        <a
+                                href="https://github.com/benhalverson"
+                        >
+                                <Unknown
+                                        size="2em"
+                                />
+                        </a>
                 </li>
                 <li>
-                        Twitter
+                        <a
+                                href="https://twitter.com/ben_halverson"
+                        >
+                                <Unknown
+                                        size="2em"
+                                />
+                        </a>
                 </li>
                 <li>
-                        LinkedIn
+                        <a
+                                href="https://linkedin.com/benhalverson"
+                        >
+                                <Unknown
+                                        size="2em"
+                                />
+                        </a>
                 </li>
         </ul>
 </nav>,
@@ -38,13 +56,31 @@ ShallowWrapper {
       "props": Object {
         "children": <ul>
           <li>
-                    Github
+                    <a
+                              href="https://github.com/benhalverson"
+                    >
+                              <Unknown
+                                        size="2em"
+                              />
+                    </a>
           </li>
           <li>
-                    Twitter
+                    <a
+                              href="https://twitter.com/ben_halverson"
+                    >
+                              <Unknown
+                                        size="2em"
+                              />
+                    </a>
           </li>
           <li>
-                    LinkedIn
+                    <a
+                              href="https://linkedin.com/benhalverson"
+                    >
+                              <Unknown
+                                        size="2em"
+                              />
+                    </a>
           </li>
 </ul>,
       },
@@ -56,13 +92,31 @@ ShallowWrapper {
         "props": Object {
           "children": Array [
             <li>
-              Github
+              <a
+                            href="https://github.com/benhalverson"
+              >
+                            <Unknown
+                                          size="2em"
+                            />
+              </a>
 </li>,
             <li>
-              Twitter
+              <a
+                            href="https://twitter.com/ben_halverson"
+              >
+                            <Unknown
+                                          size="2em"
+                            />
+              </a>
 </li>,
             <li>
-              LinkedIn
+              <a
+                            href="https://linkedin.com/benhalverson"
+              >
+                            <Unknown
+                                          size="2em"
+                            />
+              </a>
 </li>,
           ],
         },
@@ -73,10 +127,39 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "children": "Github",
+              "children": <a
+                href="https://github.com/benhalverson"
+>
+                <Unknown
+                                size="2em"
+                />
+</a>,
             },
             "ref": null,
-            "rendered": "Github",
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <Unknown
+                  size="2em"
+/>,
+                "href": "https://github.com/benhalverson",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {
+                  "size": "2em",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              "type": "a",
+            },
             "type": "li",
           },
           Object {
@@ -84,10 +167,39 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "children": "Twitter",
+              "children": <a
+                href="https://twitter.com/ben_halverson"
+>
+                <Unknown
+                                size="2em"
+                />
+</a>,
             },
             "ref": null,
-            "rendered": "Twitter",
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <Unknown
+                  size="2em"
+/>,
+                "href": "https://twitter.com/ben_halverson",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {
+                  "size": "2em",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              "type": "a",
+            },
             "type": "li",
           },
           Object {
@@ -95,10 +207,39 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "host",
             "props": Object {
-              "children": "LinkedIn",
+              "children": <a
+                href="https://linkedin.com/benhalverson"
+>
+                <Unknown
+                                size="2em"
+                />
+</a>,
             },
             "ref": null,
-            "rendered": "LinkedIn",
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <Unknown
+                  size="2em"
+/>,
+                "href": "https://linkedin.com/benhalverson",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {
+                  "size": "2em",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": [Function],
+              },
+              "type": "a",
+            },
             "type": "li",
           },
         ],
@@ -117,13 +258,31 @@ ShallowWrapper {
         "children": <nav>
           <ul>
                     <li>
-                              Github
+                              <a
+                                        href="https://github.com/benhalverson"
+                              >
+                                        <Unknown
+                                                  size="2em"
+                                        />
+                              </a>
                     </li>
                     <li>
-                              Twitter
+                              <a
+                                        href="https://twitter.com/ben_halverson"
+                              >
+                                        <Unknown
+                                                  size="2em"
+                                        />
+                              </a>
                     </li>
                     <li>
-                              LinkedIn
+                              <a
+                                        href="https://linkedin.com/benhalverson"
+                              >
+                                        <Unknown
+                                                  size="2em"
+                                        />
+                              </a>
                     </li>
           </ul>
 </nav>,
@@ -136,13 +295,31 @@ ShallowWrapper {
         "props": Object {
           "children": <ul>
             <li>
-                        Github
+                        <a
+                                    href="https://github.com/benhalverson"
+                        >
+                                    <Unknown
+                                                size="2em"
+                                    />
+                        </a>
             </li>
             <li>
-                        Twitter
+                        <a
+                                    href="https://twitter.com/ben_halverson"
+                        >
+                                    <Unknown
+                                                size="2em"
+                                    />
+                        </a>
             </li>
             <li>
-                        LinkedIn
+                        <a
+                                    href="https://linkedin.com/benhalverson"
+                        >
+                                    <Unknown
+                                                size="2em"
+                                    />
+                        </a>
             </li>
 </ul>,
         },
@@ -154,13 +331,31 @@ ShallowWrapper {
           "props": Object {
             "children": Array [
               <li>
-                Github
+                <a
+                                href="https://github.com/benhalverson"
+                >
+                                <Unknown
+                                                size="2em"
+                                />
+                </a>
 </li>,
               <li>
-                Twitter
+                <a
+                                href="https://twitter.com/ben_halverson"
+                >
+                                <Unknown
+                                                size="2em"
+                                />
+                </a>
 </li>,
               <li>
-                LinkedIn
+                <a
+                                href="https://linkedin.com/benhalverson"
+                >
+                                <Unknown
+                                                size="2em"
+                                />
+                </a>
 </li>,
             ],
           },
@@ -171,10 +366,39 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "children": "Github",
+                "children": <a
+                  href="https://github.com/benhalverson"
+>
+                  <Unknown
+                                    size="2em"
+                  />
+</a>,
               },
               "ref": null,
-              "rendered": "Github",
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <Unknown
+                    size="2em"
+/>,
+                  "href": "https://github.com/benhalverson",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "function",
+                  "props": Object {
+                    "size": "2em",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                "type": "a",
+              },
               "type": "li",
             },
             Object {
@@ -182,10 +406,39 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "children": "Twitter",
+                "children": <a
+                  href="https://twitter.com/ben_halverson"
+>
+                  <Unknown
+                                    size="2em"
+                  />
+</a>,
               },
               "ref": null,
-              "rendered": "Twitter",
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <Unknown
+                    size="2em"
+/>,
+                  "href": "https://twitter.com/ben_halverson",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "function",
+                  "props": Object {
+                    "size": "2em",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                "type": "a",
+              },
               "type": "li",
             },
             Object {
@@ -193,10 +446,39 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "children": "LinkedIn",
+                "children": <a
+                  href="https://linkedin.com/benhalverson"
+>
+                  <Unknown
+                                    size="2em"
+                  />
+</a>,
               },
               "ref": null,
-              "rendered": "LinkedIn",
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <Unknown
+                    size="2em"
+/>,
+                  "href": "https://linkedin.com/benhalverson",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "function",
+                  "props": Object {
+                    "size": "2em",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                "type": "a",
+              },
               "type": "li",
             },
           ],
