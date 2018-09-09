@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
+import './styles/css/App.css';
 import Footer from './components/Footer';
 import AppRouter from './routers/AppRouter';
 
