@@ -1,7 +1,7 @@
 import React from 'react';
 const HomePage = () => (
 <div className="content">
-  <section class="hero">
+  <section className="hero">
     {/* <img src="images/abc.png" /> */}
     <div className="hero-content">
       <h1>Title</h1>
