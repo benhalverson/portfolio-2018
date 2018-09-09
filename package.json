@@ -15,10 +15,13 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "sass": "node-sass --watch src/styles/scss --output src/styles/css",
+    "sass:build": "node-sass src/styles/scss --output src/styles/css",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "enzyme": "3.5.1"
+    "enzyme": "3.5.1",
+    "node-sass": "4.9.3"
   }
 }
