@@ -1,0 +1,602 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should render the BiomarinUnBranded component 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <BiomarinUnBranded />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <div
+          className="title"
+>
+          BioMarin CLN2 iPad App (Unbranded)
+</div>,
+        <div
+          className="body"
+>
+          <p>
+                    Same app just with a different skin for unbranded marketing purposes.
+          </p>
+          <div
+                    className="screenshots"
+          >
+                    <img
+                              alt=""
+                              className="col"
+                              src="BiomarinUnbrandedHome.png"
+                    />
+                    <img
+                              alt=""
+                              className="col"
+                              src="BiomarinUnbrandedIntro.png"
+                    />
+                    <img
+                              alt=""
+                              className="col"
+                              src="BiomarinUnbrandedNaturalHistory.png"
+                    />
+                    <img
+                              alt=""
+                              className="col"
+                              src="BiomarinUnbrandedNaturalHistoryWithModal.png"
+                    />
+                    <img
+                              alt=""
+                              className="col"
+                              src="BiomarinUnbrandedCaseStudies.png"
+                    />
+                    <img
+                              alt=""
+                              className="col"
+                              src="BiomarinUnbrandedRatingScale.png"
+                    />
+                    <img
+                              alt=""
+                              className="col"
+                              src="BiomarinUnbrandedSummary.png"
+                    />
+          </div>
+</div>,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "BioMarin CLN2 iPad App (Unbranded)",
+          "className": "title",
+        },
+        "ref": null,
+        "rendered": "BioMarin CLN2 iPad App (Unbranded)",
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <p>
+              Same app just with a different skin for unbranded marketing purposes.
+</p>,
+            <div
+              className="screenshots"
+>
+              <img
+                            alt=""
+                            className="col"
+                            src="BiomarinUnbrandedHome.png"
+              />
+              <img
+                            alt=""
+                            className="col"
+                            src="BiomarinUnbrandedIntro.png"
+              />
+              <img
+                            alt=""
+                            className="col"
+                            src="BiomarinUnbrandedNaturalHistory.png"
+              />
+              <img
+                            alt=""
+                            className="col"
+                            src="BiomarinUnbrandedNaturalHistoryWithModal.png"
+              />
+              <img
+                            alt=""
+                            className="col"
+                            src="BiomarinUnbrandedCaseStudies.png"
+              />
+              <img
+                            alt=""
+                            className="col"
+                            src="BiomarinUnbrandedRatingScale.png"
+              />
+              <img
+                            alt=""
+                            className="col"
+                            src="BiomarinUnbrandedSummary.png"
+              />
+</div>,
+          ],
+          "className": "body",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "Same app just with a different skin for unbranded marketing purposes.",
+            },
+            "ref": null,
+            "rendered": "Same app just with a different skin for unbranded marketing purposes.",
+            "type": "p",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <img
+                  alt=""
+                  className="col"
+                  src="BiomarinUnbrandedHome.png"
+/>,
+                <img
+                  alt=""
+                  className="col"
+                  src="BiomarinUnbrandedIntro.png"
+/>,
+                <img
+                  alt=""
+                  className="col"
+                  src="BiomarinUnbrandedNaturalHistory.png"
+/>,
+                <img
+                  alt=""
+                  className="col"
+                  src="BiomarinUnbrandedNaturalHistoryWithModal.png"
+/>,
+                <img
+                  alt=""
+                  className="col"
+                  src="BiomarinUnbrandedCaseStudies.png"
+/>,
+                <img
+                  alt=""
+                  className="col"
+                  src="BiomarinUnbrandedRatingScale.png"
+/>,
+                <img
+                  alt=""
+                  className="col"
+                  src="BiomarinUnbrandedSummary.png"
+/>,
+              ],
+              "className": "screenshots",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "",
+                  "className": "col",
+                  "src": "BiomarinUnbrandedHome.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "",
+                  "className": "col",
+                  "src": "BiomarinUnbrandedIntro.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "",
+                  "className": "col",
+                  "src": "BiomarinUnbrandedNaturalHistory.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "",
+                  "className": "col",
+                  "src": "BiomarinUnbrandedNaturalHistoryWithModal.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "",
+                  "className": "col",
+                  "src": "BiomarinUnbrandedCaseStudies.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "",
+                  "className": "col",
+                  "src": "BiomarinUnbrandedRatingScale.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "",
+                  "className": "col",
+                  "src": "BiomarinUnbrandedSummary.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+            ],
+            "type": "div",
+          },
+        ],
+        "type": "div",
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <div
+            className="title"
+>
+            BioMarin CLN2 iPad App (Unbranded)
+</div>,
+          <div
+            className="body"
+>
+            <p>
+                        Same app just with a different skin for unbranded marketing purposes.
+            </p>
+            <div
+                        className="screenshots"
+            >
+                        <img
+                                    alt=""
+                                    className="col"
+                                    src="BiomarinUnbrandedHome.png"
+                        />
+                        <img
+                                    alt=""
+                                    className="col"
+                                    src="BiomarinUnbrandedIntro.png"
+                        />
+                        <img
+                                    alt=""
+                                    className="col"
+                                    src="BiomarinUnbrandedNaturalHistory.png"
+                        />
+                        <img
+                                    alt=""
+                                    className="col"
+                                    src="BiomarinUnbrandedNaturalHistoryWithModal.png"
+                        />
+                        <img
+                                    alt=""
+                                    className="col"
+                                    src="BiomarinUnbrandedCaseStudies.png"
+                        />
+                        <img
+                                    alt=""
+                                    className="col"
+                                    src="BiomarinUnbrandedRatingScale.png"
+                        />
+                        <img
+                                    alt=""
+                                    className="col"
+                                    src="BiomarinUnbrandedSummary.png"
+                        />
+            </div>
+</div>,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "BioMarin CLN2 iPad App (Unbranded)",
+            "className": "title",
+          },
+          "ref": null,
+          "rendered": "BioMarin CLN2 iPad App (Unbranded)",
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <p>
+                Same app just with a different skin for unbranded marketing purposes.
+</p>,
+              <div
+                className="screenshots"
+>
+                <img
+                                alt=""
+                                className="col"
+                                src="BiomarinUnbrandedHome.png"
+                />
+                <img
+                                alt=""
+                                className="col"
+                                src="BiomarinUnbrandedIntro.png"
+                />
+                <img
+                                alt=""
+                                className="col"
+                                src="BiomarinUnbrandedNaturalHistory.png"
+                />
+                <img
+                                alt=""
+                                className="col"
+                                src="BiomarinUnbrandedNaturalHistoryWithModal.png"
+                />
+                <img
+                                alt=""
+                                className="col"
+                                src="BiomarinUnbrandedCaseStudies.png"
+                />
+                <img
+                                alt=""
+                                className="col"
+                                src="BiomarinUnbrandedRatingScale.png"
+                />
+                <img
+                                alt=""
+                                className="col"
+                                src="BiomarinUnbrandedSummary.png"
+                />
+</div>,
+            ],
+            "className": "body",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Same app just with a different skin for unbranded marketing purposes.",
+              },
+              "ref": null,
+              "rendered": "Same app just with a different skin for unbranded marketing purposes.",
+              "type": "p",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <img
+                    alt=""
+                    className="col"
+                    src="BiomarinUnbrandedHome.png"
+/>,
+                  <img
+                    alt=""
+                    className="col"
+                    src="BiomarinUnbrandedIntro.png"
+/>,
+                  <img
+                    alt=""
+                    className="col"
+                    src="BiomarinUnbrandedNaturalHistory.png"
+/>,
+                  <img
+                    alt=""
+                    className="col"
+                    src="BiomarinUnbrandedNaturalHistoryWithModal.png"
+/>,
+                  <img
+                    alt=""
+                    className="col"
+                    src="BiomarinUnbrandedCaseStudies.png"
+/>,
+                  <img
+                    alt=""
+                    className="col"
+                    src="BiomarinUnbrandedRatingScale.png"
+/>,
+                  <img
+                    alt=""
+                    className="col"
+                    src="BiomarinUnbrandedSummary.png"
+/>,
+                ],
+                "className": "screenshots",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "col",
+                    "src": "BiomarinUnbrandedHome.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "col",
+                    "src": "BiomarinUnbrandedIntro.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "col",
+                    "src": "BiomarinUnbrandedNaturalHistory.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "col",
+                    "src": "BiomarinUnbrandedNaturalHistoryWithModal.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "col",
+                    "src": "BiomarinUnbrandedCaseStudies.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "col",
+                    "src": "BiomarinUnbrandedRatingScale.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "col",
+                    "src": "BiomarinUnbrandedSummary.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+              ],
+              "type": "div",
+            },
+          ],
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    "attachTo": undefined,
+    "hydrateIn": undefined,
+  },
+}
+`;

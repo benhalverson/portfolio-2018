@@ -1,0 +1,490 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should render the GSKVaccines component 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <GSKVaccines />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <div
+          className="title"
+>
+          GSK Vaccines Eduaction Module
+</div>,
+        <div
+          className="body"
+>
+          <p>
+                    This was a Web app based on an education framework called Adapt Learning. It was selected because of a really short deadline given by the client. The technology it used was Backbone.js and SCSS.
+          </p>
+          <div
+                    className="screenshots"
+          >
+                    <img
+                              alt=""
+                              className="col"
+                              src="GSK001.png"
+                    />
+                    <img
+                              alt=""
+                              className="col"
+                              src="GSK002.png"
+                    />
+                    <img
+                              alt=""
+                              className="col"
+                              src="GSK003.png"
+                    />
+                    <img
+                              alt=""
+                              className="col"
+                              src="GSK004.png"
+                    />
+                    <img
+                              alt=""
+                              className="col"
+                              src="GSK005.png"
+                    />
+          </div>
+</div>,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "GSK Vaccines Eduaction Module",
+          "className": "title",
+        },
+        "ref": null,
+        "rendered": "GSK Vaccines Eduaction Module",
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <p>
+              This was a Web app based on an education framework called Adapt Learning. It was selected because of a really short deadline given by the client. The technology it used was Backbone.js and SCSS.
+</p>,
+            <div
+              className="screenshots"
+>
+              <img
+                            alt=""
+                            className="col"
+                            src="GSK001.png"
+              />
+              <img
+                            alt=""
+                            className="col"
+                            src="GSK002.png"
+              />
+              <img
+                            alt=""
+                            className="col"
+                            src="GSK003.png"
+              />
+              <img
+                            alt=""
+                            className="col"
+                            src="GSK004.png"
+              />
+              <img
+                            alt=""
+                            className="col"
+                            src="GSK005.png"
+              />
+</div>,
+          ],
+          "className": "body",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "This was a Web app based on an education framework called Adapt Learning. It was selected because of a really short deadline given by the client. The technology it used was Backbone.js and SCSS.",
+            },
+            "ref": null,
+            "rendered": "This was a Web app based on an education framework called Adapt Learning. It was selected because of a really short deadline given by the client. The technology it used was Backbone.js and SCSS.",
+            "type": "p",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <img
+                  alt=""
+                  className="col"
+                  src="GSK001.png"
+/>,
+                <img
+                  alt=""
+                  className="col"
+                  src="GSK002.png"
+/>,
+                <img
+                  alt=""
+                  className="col"
+                  src="GSK003.png"
+/>,
+                <img
+                  alt=""
+                  className="col"
+                  src="GSK004.png"
+/>,
+                <img
+                  alt=""
+                  className="col"
+                  src="GSK005.png"
+/>,
+              ],
+              "className": "screenshots",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "",
+                  "className": "col",
+                  "src": "GSK001.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "",
+                  "className": "col",
+                  "src": "GSK002.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "",
+                  "className": "col",
+                  "src": "GSK003.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "",
+                  "className": "col",
+                  "src": "GSK004.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "alt": "",
+                  "className": "col",
+                  "src": "GSK005.png",
+                },
+                "ref": null,
+                "rendered": null,
+                "type": "img",
+              },
+            ],
+            "type": "div",
+          },
+        ],
+        "type": "div",
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <div
+            className="title"
+>
+            GSK Vaccines Eduaction Module
+</div>,
+          <div
+            className="body"
+>
+            <p>
+                        This was a Web app based on an education framework called Adapt Learning. It was selected because of a really short deadline given by the client. The technology it used was Backbone.js and SCSS.
+            </p>
+            <div
+                        className="screenshots"
+            >
+                        <img
+                                    alt=""
+                                    className="col"
+                                    src="GSK001.png"
+                        />
+                        <img
+                                    alt=""
+                                    className="col"
+                                    src="GSK002.png"
+                        />
+                        <img
+                                    alt=""
+                                    className="col"
+                                    src="GSK003.png"
+                        />
+                        <img
+                                    alt=""
+                                    className="col"
+                                    src="GSK004.png"
+                        />
+                        <img
+                                    alt=""
+                                    className="col"
+                                    src="GSK005.png"
+                        />
+            </div>
+</div>,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "GSK Vaccines Eduaction Module",
+            "className": "title",
+          },
+          "ref": null,
+          "rendered": "GSK Vaccines Eduaction Module",
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <p>
+                This was a Web app based on an education framework called Adapt Learning. It was selected because of a really short deadline given by the client. The technology it used was Backbone.js and SCSS.
+</p>,
+              <div
+                className="screenshots"
+>
+                <img
+                                alt=""
+                                className="col"
+                                src="GSK001.png"
+                />
+                <img
+                                alt=""
+                                className="col"
+                                src="GSK002.png"
+                />
+                <img
+                                alt=""
+                                className="col"
+                                src="GSK003.png"
+                />
+                <img
+                                alt=""
+                                className="col"
+                                src="GSK004.png"
+                />
+                <img
+                                alt=""
+                                className="col"
+                                src="GSK005.png"
+                />
+</div>,
+            ],
+            "className": "body",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "This was a Web app based on an education framework called Adapt Learning. It was selected because of a really short deadline given by the client. The technology it used was Backbone.js and SCSS.",
+              },
+              "ref": null,
+              "rendered": "This was a Web app based on an education framework called Adapt Learning. It was selected because of a really short deadline given by the client. The technology it used was Backbone.js and SCSS.",
+              "type": "p",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <img
+                    alt=""
+                    className="col"
+                    src="GSK001.png"
+/>,
+                  <img
+                    alt=""
+                    className="col"
+                    src="GSK002.png"
+/>,
+                  <img
+                    alt=""
+                    className="col"
+                    src="GSK003.png"
+/>,
+                  <img
+                    alt=""
+                    className="col"
+                    src="GSK004.png"
+/>,
+                  <img
+                    alt=""
+                    className="col"
+                    src="GSK005.png"
+/>,
+                ],
+                "className": "screenshots",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "col",
+                    "src": "GSK001.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "col",
+                    "src": "GSK002.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "col",
+                    "src": "GSK003.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "col",
+                    "src": "GSK004.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "alt": "",
+                    "className": "col",
+                    "src": "GSK005.png",
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": "img",
+                },
+              ],
+              "type": "div",
+            },
+          ],
+          "type": "div",
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    "attachTo": undefined,
+    "hydrateIn": undefined,
+  },
+}
+`;
