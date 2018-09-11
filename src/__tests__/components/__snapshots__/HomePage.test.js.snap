@@ -19,6 +19,10 @@ ShallowWrapper {
       "children": <section
         className="hero"
 >
+        <img
+                alt="my pic"
+                src="https://via.placeholder.com/200x200"
+        />
         <div
                 className="hero-content"
         >
@@ -26,7 +30,10 @@ ShallowWrapper {
                         Title
                 </h1>
                 <p>
-                        lorem text
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt magna turpis, rutrum sagittis nibh tincidunt non. Aenean egestas odio augue, in rutrum elit dictum sed. Curabitur bibendum ex ac ligula hendrerit vulputate. Suspendisse potenti. Donec tortor diam, rutrum sed suscipit eget, condimentum et est. Suspendisse potenti. Fusce ac nibh malesuada nulla efficitur ullamcorper. Curabitur ac quam sit amet velit cursus placerat. Phasellus ornare dui quis pharetra scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel posuere lectus. Mauris gravida, mauris ut scelerisque imperdiet, libero tellus mollis ipsum, quis interdum ipsum turpis in arcu.
+                </p>
+                <p>
+                        Maecenas id urna mattis nisi volutpat semper vitae sit amet justo. Phasellus pharetra ipsum sit amet neque imperdiet, non dictum nibh porta. Integer placerat nec nisl vel ultrices. Vivamus faucibus consequat velit. Curabitur eleifend justo ut lobortis bibendum. Mauris maximus nisi ultrices rhoncus pellentesque. Donec non interdum nisl. Nam facilisis felis non nibh vulputate, commodo consectetur tortor rutrum.
                 </p>
                 <a
                         className="action-btn"
@@ -44,132 +51,22 @@ ShallowWrapper {
       "key": undefined,
       "nodeType": "host",
       "props": Object {
-        "children": <div
-          className="hero-content"
->
-          <h1>
-                    Title
-          </h1>
-          <p>
-                    lorem text
-          </p>
-          <a
-                    className="action-btn"
-                    href="/contact"
-          >
-                    Hire me
-          </a>
-</div>,
-        "className": "hero",
-      },
-      "ref": null,
-      "rendered": Object {
-        "instance": null,
-        "key": undefined,
-        "nodeType": "host",
-        "props": Object {
-          "children": Array [
-            <h1>
-              Title
-</h1>,
-            <p>
-              lorem text
-</p>,
-            <a
-              className="action-btn"
-              href="/contact"
->
-              Hire me
-</a>,
-          ],
-          "className": "hero-content",
-        },
-        "ref": null,
-        "rendered": Array [
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {
-              "children": "Title",
-            },
-            "ref": null,
-            "rendered": "Title",
-            "type": "h1",
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {
-              "children": "lorem text",
-            },
-            "ref": null,
-            "rendered": "lorem text",
-            "type": "p",
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {
-              "children": "Hire me",
-              "className": "action-btn",
-              "href": "/contact",
-            },
-            "ref": null,
-            "rendered": "Hire me",
-            "type": "a",
-          },
-        ],
-        "type": "div",
-      },
-      "type": "section",
-    },
-    "type": "div",
-  },
-  Symbol(enzyme.__nodes__): Array [
-    Object {
-      "instance": null,
-      "key": undefined,
-      "nodeType": "host",
-      "props": Object {
-        "children": <section
-          className="hero"
->
+        "children": Array [
+          <img
+            alt="my pic"
+            src="https://via.placeholder.com/200x200"
+/>,
           <div
-                    className="hero-content"
-          >
-                    <h1>
-                              Title
-                    </h1>
-                    <p>
-                              lorem text
-                    </p>
-                    <a
-                              className="action-btn"
-                              href="/contact"
-                    >
-                              Hire me
-                    </a>
-          </div>
-</section>,
-        "className": "content",
-      },
-      "ref": null,
-      "rendered": Object {
-        "instance": null,
-        "key": undefined,
-        "nodeType": "host",
-        "props": Object {
-          "children": <div
             className="hero-content"
 >
             <h1>
                         Title
             </h1>
             <p>
-                        lorem text
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt magna turpis, rutrum sagittis nibh tincidunt non. Aenean egestas odio augue, in rutrum elit dictum sed. Curabitur bibendum ex ac ligula hendrerit vulputate. Suspendisse potenti. Donec tortor diam, rutrum sed suscipit eget, condimentum et est. Suspendisse potenti. Fusce ac nibh malesuada nulla efficitur ullamcorper. Curabitur ac quam sit amet velit cursus placerat. Phasellus ornare dui quis pharetra scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel posuere lectus. Mauris gravida, mauris ut scelerisque imperdiet, libero tellus mollis ipsum, quis interdum ipsum turpis in arcu.
+            </p>
+            <p>
+                        Maecenas id urna mattis nisi volutpat semper vitae sit amet justo. Phasellus pharetra ipsum sit amet neque imperdiet, non dictum nibh porta. Integer placerat nec nisl vel ultrices. Vivamus faucibus consequat velit. Curabitur eleifend justo ut lobortis bibendum. Mauris maximus nisi ultrices rhoncus pellentesque. Donec non interdum nisl. Nam facilisis felis non nibh vulputate, commodo consectetur tortor rutrum.
             </p>
             <a
                         className="action-btn"
@@ -178,10 +75,24 @@ ShallowWrapper {
                         Hire me
             </a>
 </div>,
-          "className": "hero",
+        ],
+        "className": "hero",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "alt": "my pic",
+            "src": "https://via.placeholder.com/200x200",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": "img",
         },
-        "ref": null,
-        "rendered": Object {
+        Object {
           "instance": null,
           "key": undefined,
           "nodeType": "host",
@@ -191,7 +102,10 @@ ShallowWrapper {
                 Title
 </h1>,
               <p>
-                lorem text
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt magna turpis, rutrum sagittis nibh tincidunt non. Aenean egestas odio augue, in rutrum elit dictum sed. Curabitur bibendum ex ac ligula hendrerit vulputate. Suspendisse potenti. Donec tortor diam, rutrum sed suscipit eget, condimentum et est. Suspendisse potenti. Fusce ac nibh malesuada nulla efficitur ullamcorper. Curabitur ac quam sit amet velit cursus placerat. Phasellus ornare dui quis pharetra scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel posuere lectus. Mauris gravida, mauris ut scelerisque imperdiet, libero tellus mollis ipsum, quis interdum ipsum turpis in arcu.
+</p>,
+              <p>
+                Maecenas id urna mattis nisi volutpat semper vitae sit amet justo. Phasellus pharetra ipsum sit amet neque imperdiet, non dictum nibh porta. Integer placerat nec nisl vel ultrices. Vivamus faucibus consequat velit. Curabitur eleifend justo ut lobortis bibendum. Mauris maximus nisi ultrices rhoncus pellentesque. Donec non interdum nisl. Nam facilisis felis non nibh vulputate, commodo consectetur tortor rutrum.
 </p>,
               <a
                 className="action-btn"
@@ -220,10 +134,21 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "host",
               "props": Object {
-                "children": "lorem text",
+                "children": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt magna turpis, rutrum sagittis nibh tincidunt non. Aenean egestas odio augue, in rutrum elit dictum sed. Curabitur bibendum ex ac ligula hendrerit vulputate. Suspendisse potenti. Donec tortor diam, rutrum sed suscipit eget, condimentum et est. Suspendisse potenti. Fusce ac nibh malesuada nulla efficitur ullamcorper. Curabitur ac quam sit amet velit cursus placerat. Phasellus ornare dui quis pharetra scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel posuere lectus. Mauris gravida, mauris ut scelerisque imperdiet, libero tellus mollis ipsum, quis interdum ipsum turpis in arcu.",
               },
               "ref": null,
-              "rendered": "lorem text",
+              "rendered": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt magna turpis, rutrum sagittis nibh tincidunt non. Aenean egestas odio augue, in rutrum elit dictum sed. Curabitur bibendum ex ac ligula hendrerit vulputate. Suspendisse potenti. Donec tortor diam, rutrum sed suscipit eget, condimentum et est. Suspendisse potenti. Fusce ac nibh malesuada nulla efficitur ullamcorper. Curabitur ac quam sit amet velit cursus placerat. Phasellus ornare dui quis pharetra scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel posuere lectus. Mauris gravida, mauris ut scelerisque imperdiet, libero tellus mollis ipsum, quis interdum ipsum turpis in arcu.",
+              "type": "p",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Maecenas id urna mattis nisi volutpat semper vitae sit amet justo. Phasellus pharetra ipsum sit amet neque imperdiet, non dictum nibh porta. Integer placerat nec nisl vel ultrices. Vivamus faucibus consequat velit. Curabitur eleifend justo ut lobortis bibendum. Mauris maximus nisi ultrices rhoncus pellentesque. Donec non interdum nisl. Nam facilisis felis non nibh vulputate, commodo consectetur tortor rutrum.",
+              },
+              "ref": null,
+              "rendered": "Maecenas id urna mattis nisi volutpat semper vitae sit amet justo. Phasellus pharetra ipsum sit amet neque imperdiet, non dictum nibh porta. Integer placerat nec nisl vel ultrices. Vivamus faucibus consequat velit. Curabitur eleifend justo ut lobortis bibendum. Mauris maximus nisi ultrices rhoncus pellentesque. Donec non interdum nisl. Nam facilisis felis non nibh vulputate, commodo consectetur tortor rutrum.",
               "type": "p",
             },
             Object {
@@ -242,6 +167,169 @@ ShallowWrapper {
           ],
           "type": "div",
         },
+      ],
+      "type": "section",
+    },
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <section
+          className="hero"
+>
+          <img
+                    alt="my pic"
+                    src="https://via.placeholder.com/200x200"
+          />
+          <div
+                    className="hero-content"
+          >
+                    <h1>
+                              Title
+                    </h1>
+                    <p>
+                              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt magna turpis, rutrum sagittis nibh tincidunt non. Aenean egestas odio augue, in rutrum elit dictum sed. Curabitur bibendum ex ac ligula hendrerit vulputate. Suspendisse potenti. Donec tortor diam, rutrum sed suscipit eget, condimentum et est. Suspendisse potenti. Fusce ac nibh malesuada nulla efficitur ullamcorper. Curabitur ac quam sit amet velit cursus placerat. Phasellus ornare dui quis pharetra scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel posuere lectus. Mauris gravida, mauris ut scelerisque imperdiet, libero tellus mollis ipsum, quis interdum ipsum turpis in arcu.
+                    </p>
+                    <p>
+                              Maecenas id urna mattis nisi volutpat semper vitae sit amet justo. Phasellus pharetra ipsum sit amet neque imperdiet, non dictum nibh porta. Integer placerat nec nisl vel ultrices. Vivamus faucibus consequat velit. Curabitur eleifend justo ut lobortis bibendum. Mauris maximus nisi ultrices rhoncus pellentesque. Donec non interdum nisl. Nam facilisis felis non nibh vulputate, commodo consectetur tortor rutrum.
+                    </p>
+                    <a
+                              className="action-btn"
+                              href="/contact"
+                    >
+                              Hire me
+                    </a>
+          </div>
+</section>,
+        "className": "content",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <img
+              alt="my pic"
+              src="https://via.placeholder.com/200x200"
+/>,
+            <div
+              className="hero-content"
+>
+              <h1>
+                            Title
+              </h1>
+              <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt magna turpis, rutrum sagittis nibh tincidunt non. Aenean egestas odio augue, in rutrum elit dictum sed. Curabitur bibendum ex ac ligula hendrerit vulputate. Suspendisse potenti. Donec tortor diam, rutrum sed suscipit eget, condimentum et est. Suspendisse potenti. Fusce ac nibh malesuada nulla efficitur ullamcorper. Curabitur ac quam sit amet velit cursus placerat. Phasellus ornare dui quis pharetra scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel posuere lectus. Mauris gravida, mauris ut scelerisque imperdiet, libero tellus mollis ipsum, quis interdum ipsum turpis in arcu.
+              </p>
+              <p>
+                            Maecenas id urna mattis nisi volutpat semper vitae sit amet justo. Phasellus pharetra ipsum sit amet neque imperdiet, non dictum nibh porta. Integer placerat nec nisl vel ultrices. Vivamus faucibus consequat velit. Curabitur eleifend justo ut lobortis bibendum. Mauris maximus nisi ultrices rhoncus pellentesque. Donec non interdum nisl. Nam facilisis felis non nibh vulputate, commodo consectetur tortor rutrum.
+              </p>
+              <a
+                            className="action-btn"
+                            href="/contact"
+              >
+                            Hire me
+              </a>
+</div>,
+          ],
+          "className": "hero",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "alt": "my pic",
+              "src": "https://via.placeholder.com/200x200",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": "img",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <h1>
+                  Title
+</h1>,
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt magna turpis, rutrum sagittis nibh tincidunt non. Aenean egestas odio augue, in rutrum elit dictum sed. Curabitur bibendum ex ac ligula hendrerit vulputate. Suspendisse potenti. Donec tortor diam, rutrum sed suscipit eget, condimentum et est. Suspendisse potenti. Fusce ac nibh malesuada nulla efficitur ullamcorper. Curabitur ac quam sit amet velit cursus placerat. Phasellus ornare dui quis pharetra scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel posuere lectus. Mauris gravida, mauris ut scelerisque imperdiet, libero tellus mollis ipsum, quis interdum ipsum turpis in arcu.
+</p>,
+                <p>
+                  Maecenas id urna mattis nisi volutpat semper vitae sit amet justo. Phasellus pharetra ipsum sit amet neque imperdiet, non dictum nibh porta. Integer placerat nec nisl vel ultrices. Vivamus faucibus consequat velit. Curabitur eleifend justo ut lobortis bibendum. Mauris maximus nisi ultrices rhoncus pellentesque. Donec non interdum nisl. Nam facilisis felis non nibh vulputate, commodo consectetur tortor rutrum.
+</p>,
+                <a
+                  className="action-btn"
+                  href="/contact"
+>
+                  Hire me
+</a>,
+              ],
+              "className": "hero-content",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Title",
+                },
+                "ref": null,
+                "rendered": "Title",
+                "type": "h1",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt magna turpis, rutrum sagittis nibh tincidunt non. Aenean egestas odio augue, in rutrum elit dictum sed. Curabitur bibendum ex ac ligula hendrerit vulputate. Suspendisse potenti. Donec tortor diam, rutrum sed suscipit eget, condimentum et est. Suspendisse potenti. Fusce ac nibh malesuada nulla efficitur ullamcorper. Curabitur ac quam sit amet velit cursus placerat. Phasellus ornare dui quis pharetra scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel posuere lectus. Mauris gravida, mauris ut scelerisque imperdiet, libero tellus mollis ipsum, quis interdum ipsum turpis in arcu.",
+                },
+                "ref": null,
+                "rendered": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt magna turpis, rutrum sagittis nibh tincidunt non. Aenean egestas odio augue, in rutrum elit dictum sed. Curabitur bibendum ex ac ligula hendrerit vulputate. Suspendisse potenti. Donec tortor diam, rutrum sed suscipit eget, condimentum et est. Suspendisse potenti. Fusce ac nibh malesuada nulla efficitur ullamcorper. Curabitur ac quam sit amet velit cursus placerat. Phasellus ornare dui quis pharetra scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel posuere lectus. Mauris gravida, mauris ut scelerisque imperdiet, libero tellus mollis ipsum, quis interdum ipsum turpis in arcu.",
+                "type": "p",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Maecenas id urna mattis nisi volutpat semper vitae sit amet justo. Phasellus pharetra ipsum sit amet neque imperdiet, non dictum nibh porta. Integer placerat nec nisl vel ultrices. Vivamus faucibus consequat velit. Curabitur eleifend justo ut lobortis bibendum. Mauris maximus nisi ultrices rhoncus pellentesque. Donec non interdum nisl. Nam facilisis felis non nibh vulputate, commodo consectetur tortor rutrum.",
+                },
+                "ref": null,
+                "rendered": "Maecenas id urna mattis nisi volutpat semper vitae sit amet justo. Phasellus pharetra ipsum sit amet neque imperdiet, non dictum nibh porta. Integer placerat nec nisl vel ultrices. Vivamus faucibus consequat velit. Curabitur eleifend justo ut lobortis bibendum. Mauris maximus nisi ultrices rhoncus pellentesque. Donec non interdum nisl. Nam facilisis felis non nibh vulputate, commodo consectetur tortor rutrum.",
+                "type": "p",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Hire me",
+                  "className": "action-btn",
+                  "href": "/contact",
+                },
+                "ref": null,
+                "rendered": "Hire me",
+                "type": "a",
+              },
+            ],
+            "type": "div",
+          },
+        ],
         "type": "section",
       },
       "type": "div",

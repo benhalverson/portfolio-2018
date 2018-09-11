@@ -1,6 +1,6 @@
 .footer ul {
   max-width: 640px;
-  margin: 2em auto;
+  margin: 0em auto;
   padding: 0;
   text-align: center;
   display: flex;
@@ -17,10 +17,10 @@ footer ul li a {
   color: #c1c6ce;
 }
 
-svg {
-  width: 40%;
-}
-
 footer p {
   font-size: 0.8em;
+}
+.footer {
+  height: 50px;
+  flex-shrink: 0;
 }

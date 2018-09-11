@@ -1,13 +1,5 @@
 import React from 'react';
-import {
-  Card,
-  CardText,
-  CardBody,
-  CardTitle,
-  Container,
-  Row,
-  Col
-} from 'reactstrap';
+import '../styles/css/portfolio.css';
 
 import OAdefaultview from '../images/OA-default-view.png';
 import OAresults from '../images/OA-results.png';
@@ -66,150 +58,152 @@ import jazz008 from '../images/Jazz-Erwinize008.png';
 import jazz009 from '../images/Jazz-Erwinize009.png';
 
 const PortfolioPage = () => (
-  <Container>
-    <Row>
-      <Col xs="4">
-        <Card>
-          <CardTitle>E-Trade Options Analyzer</CardTitle>
-          <CardBody>
-            <CardText>
-              I worked on this project with one other engineer. We rebuilt it
-              from the ground up using Angular.js, a forked version of bootstrap
-              and ui-bootstrap. I primarly worked on the charting part of the UI
-            </CardText>
-
-            <div>
-            <img src={OAdefaultview} alt="" width="100" height="100" />
-            <img src={OAresults} alt="" width="100" height="100" />
-            <img src={OAchart} alt="" width="100" height="100" />
-            <img src={OAtablechart} alt="" width="100" height="100" />
-            </div>
-          </CardBody>
-        </Card>
-      </Col>
-      <Col xs="4">
-        <Card>
-          <CardTitle>E-Trade Options Income Finder</CardTitle>
-          <CardBody>
-            <CardText>
-              I was the lead on this new product. I built the first prototype in
-              Angular.js and version 1 of this product.
-            </CardText>
-
-            <div>
-            <img src={OptionsIncomeFinderDefaultView} alt="" width="100" height="100" />
-            <img src={OptionsIncomeFinderAdditionalFilters} alt="" width="100" height="100" />
-            <img src={OptionsIncomeFinderSearch} alt="" width="100" height="100" />
-            <img src={OptionsIncomeFinderResults} alt="" width="100" height="100" />
-            <img src={OptionsIncomeFinderExpandedResults} alt="" width="100" height="100" />
-            <img src={OptionsIncomeFinderMiniBacktester} alt="" width="100" height="100" />
-            </div>
-          </CardBody>
-        </Card>
-      </Col>
-      <Col xs="4">
-        <Card>
-          <CardTitle>E-Trade Options Backtester</CardTitle>
-          <CardBody>
-            <CardText>
-              I was the lead on this new product. I built the first prototype in
-              Angular.js and version 1 of this product.
-            </CardText>
-
-            <div>
-            <img src={IGOTdefaultview} alt="" width="100" height="100" />
-            <img src={IGOTadvanceddefaultview} alt="" width="100" height="100" />
-            <img src={IGOTtableexpanded} alt="" width="100" height="100" />
-            <img src={IGOTtablechart} alt="" width="100" height="100" />
-            <img src={IGOTsearchresults} alt="" width="100" height="100" />
-            <img src={IGOTdatepicker} alt="" width="100" height="100" />
-            </div>
-          </CardBody>
-        </Card>
-      </Col>
-    </Row>
-    <Row>
-      <Col xs="4">
-        <Card>
-          <CardTitle>BioMarin CLN2 iPad App</CardTitle>
-          <CardBody>
-            <CardText>
-              I was the lead on this project when I was still realtively new to
-              Viscira. The requirements from the client was unique. They had
-              their own enterprsie iPad container that could accept webpages. I
-              recommended that we use Angular 2 with the CLI to quickly build
-              out the pages and router needed to move between the nav and subnav
-              pages.
-            </CardText>
-            <div>
-              <img src={BiomarinHomePage} alt="" width="100" height="100" />
-              <img src={BiomarinIntroduction} alt="" width="100" height="100" />
-              <img src={BiomarinCaseStudy} alt="" width="100" height="100" />
-              <img src={BiomarinChart} alt="" width="100" height="100" />
-              <img src={BiomarinRatingScale} alt="" width="100" height="100" />
-              <img src={BiomarinCaseStudies} alt="" width="100" height="100" />
-              <img src={BiomarinCaseStudyWithAnswer} alt="" width="100" height="100" />
-              <img src={BiomarinCaseStudyWithWrongAnswer} alt="" width="100" height="100" />
-              <img src={BiomarinVideoModal} alt="" width="100" height="100" />
-              <img src={BiomarinVideoModal2} alt="" width="100" height="100" />
-              <img src={BiomarinVideoPlayer} alt="" width="100" height="100" />
-              <img src={BiomarinSummary} alt="" width="100" height="100" />
-            </div>
-          </CardBody>
-        </Card>
-      </Col>
-      <Col xs="4">
-        <Card>
-          <CardTitle>BioMarin CLN2 iPad App (Unbranded)</CardTitle>
-          <CardBody>
-            <CardText>
-              Same app just with a different skin for unbranded marketing
-              purposes.
-            </CardText>
-            <div>
-            <img src={BiomarinUnbrandedHome} alt="" width="100" height="100" />
-              <img src={BiomarinUnbrandedIntro} alt="" width="100" height="100" />
-              <img src={BiomarinUnbrandedNaturalHistory} alt="" width="100" height="100" />
-              <img src={BiomarinUnbrandedNaturalHistoryWithModal} alt="" width="100" height="100" />
-              <img src={BiomarinUnbrandedCaseStudies} alt="" width="100" height="100" />
-              <img src={BiomarinUnbrandedRatingScale} alt="" width="100" height="100" />
-              <img src={BiomarinUnbrandedSummary} alt="" width="100" height="100" />
-
-            </div>
-          </CardBody>
-        </Card>
-      </Col>
-      <Col xs="4">
-        <Card>
-          <CardTitle>GSK Vaccines Eduaction Module</CardTitle>
-          <CardBody>
-            <CardText>
-              This was a Web app based on an education framework called Adapt
-              Learning. It was selected because of a really short deadline given
-              by the client. The technology it used was Backbone.js and SCSS.
-            </CardText>
-            <div>
-              <img src={GSK001} alt="" width="100" height="100" />
-              <img src={GSK002} alt="" width="100" height="100" />
-              <img src={GSK003} alt="" width="100" height="100" />
-              <img src={GSK004} alt="" width="100" height="100" />
-              <img src={GSK005} alt="" width="100" height="100" />
-            </div>
-          </CardBody>
-        </Card>
-      </Col>
-    </Row>
-    <Row>
-      <Col xs="auto">
-        <Card>
-          <CardTitle>Jazz Pharmaceuticals</CardTitle>
-          <CardBody>
-            <CardText>
+  <div className="container">
+    <div className="flex-grid">
+      <div className="col">
+        <div className="title">E-Trade Options Analyzer</div>
+        <div className="body">
+          <p className="description">
+            I worked on this project with one other engineer. We rebuilt it from
+            the ground up using Angular.js, a forked version of bootstrap and
+            ui-bootstrap. I primarly worked on the charting part of the UI.
+          </p>
+          <div className="screenshots">
+            <img className="col" src={OAdefaultview} alt="" />
+            <img className="col" src={OAresults} alt="" />
+            <img className="col" src={OAchart} alt="" />
+            <img className="col" src={OAtablechart} alt="" />
+          </div>
+        </div>
+      </div>
+      <div className="col">
+        <div className="title">E-Trade Options Income Finder</div>
+        <div className="body">
+          <p className="description">
+            I was the lead on this new product. I built the first prototype in
+            Angular.js and version 1 of this product.
+          </p>
+          <div className="screenshots">
+            <img className="col" src={OptionsIncomeFinderDefaultView} alt="" />
+            <img
+              className="col"
+              src={OptionsIncomeFinderAdditionalFilters}
+              alt=""
+            />
+            <img className="col" src={OptionsIncomeFinderSearch} alt="" />
+            <img className="col" src={OptionsIncomeFinderResults} alt="" />
+            <img
+              className="col"
+              src={OptionsIncomeFinderExpandedResults}
+              alt=""
+            />
+            <img
+              className="col"
+              src={OptionsIncomeFinderMiniBacktester}
+              alt=""
+            />
+          </div>
+        </div>
+      </div>
+      <div className="col">
+        <div className="title">E-Trade Options Backtester</div>
+        <div className="body">
+          <p className="description">
+            I was the lead on this new product. I built the first prototype in
+            Angular.js and version 1 of this product.
+          </p>
+          <div className="screenshots">
+            <img className="col" src={IGOTdefaultview} alt="" />
+            <img className="col" src={IGOTadvanceddefaultview} alt="" />
+            <img className="col" src={IGOTtableexpanded} alt="" />
+            <img className="col" src={IGOTtablechart} alt="" />
+            <img className="col" src={IGOTsearchresults} alt="" />
+            <img className="col" src={IGOTdatepicker} alt="" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <br />
+    <div className="flex-grid">
+      <div className="col">
+        <div className="title">BioMarin CLN2 iPad App</div>
+        <div className="body">
+          <p className="description">
+            I was the lead on this project when I was still realtively new to
+            Viscira. The requirements from the client was unique. They had their
+            own enterprsie iPad container that could accept webpages. I
+            recommended that we use Angular 2 with the CLI to quickly build out
+            the pages and router needed to move between the nav and subnavpages.
+          </p>
+          <div className="screenshots">
+            <img className="col" src={BiomarinHomePage} alt="" />
+            <img className="col" src={BiomarinIntroduction} alt="" />
+            <img className="col" src={BiomarinCaseStudy} alt="" />
+            <img className="col" src={BiomarinChart} alt="" />
+            <img className="col" src={BiomarinRatingScale} alt="" />
+            <img className="col" src={BiomarinCaseStudies} alt="" />
+            <img className="col" src={BiomarinCaseStudyWithAnswer} alt="" />
+            <img
+              className="col"
+              src={BiomarinCaseStudyWithWrongAnswer}
+              alt=""
+            />
+            <img className="col" src={BiomarinVideoModal} alt="" />
+            <img className="col" src={BiomarinVideoModal2} alt="" />
+            <img className="col" src={BiomarinVideoPlayer} alt="" />
+            <img className="col" src={BiomarinSummary} alt="" />
+          </div>
+        </div>
+      </div>
+      <div className="col">
+        <div className="title">BioMarin CLN2 iPad App (Unbranded)</div>
+        <div className="body">
+          <p>
+            Same app just with a different skin for unbranded marketing
+            purposes.
+          </p>
+          <div className="screenshots">
+            <img className="col" src={BiomarinUnbrandedHome} alt="" />
+            <img className="col" src={BiomarinUnbrandedIntro} alt="" />
+            <img className="col" src={BiomarinUnbrandedNaturalHistory} alt="" />
+            <img
+              className="col"
+              src={BiomarinUnbrandedNaturalHistoryWithModal}
+              alt=""
+            />
+            <img className="col" src={BiomarinUnbrandedCaseStudies} alt="" />
+            <img className="col" src={BiomarinUnbrandedRatingScale} alt="" />
+            <img className="col" src={BiomarinUnbrandedSummary} alt="" />
+          </div>
+        </div>
+      </div>
+      <div className="col">
+        <div className="title">GSK Vaccines Eduaction Module</div>
+        <div className="body">
+          <p>
+            This was a Web app based on an education framework called Adapt
+            Learning. It was selected because of a really short deadline given
+            by the client. The technology it used was Backbone.js and SCSS.
+          </p>
+          <div className="screenshots">
+            <img className="col" src={GSK001} alt="" />
+            <img className="col" src={GSK002} alt="" />
+            <img className="col" src={GSK003} alt="" />
+            <img className="col" src={GSK004} alt="" />
+            <img className="col" src={GSK005} alt="" />
+          </div>
+        </div>
+      </div>
+      <div className="col">
+          <div className="title">Jazz Pharmaceuticals</div>
+          <div className="body">
+            <p>
+              {' '}
               This was a unique project becuae it took two different solutions
               that Viscira provided and combined them into one. I mostly worked
-              on the Casebuilder part of this application. I
-            </CardText>
-            <div>
+              on the Casebuilder part of this application.
+            </p>
+            <div className="screenshots">
               <img src={jazz001} alt="" width="100" height="100" />
               <img src={jazz002} alt="" width="100" height="100" />
               <img src={jazz003} alt="" width="100" height="100" />
@@ -220,12 +214,10 @@ const PortfolioPage = () => (
               <img src={jazz008} alt="" width="100" height="100" />
               <img src={jazz009} alt="" width="100" height="100" />
             </div>
-          </CardBody>
-        </Card>
-        <li />
-      </Col>
-    </Row>
-  </Container>
+          </div>
+        </div>
+    </div>
+  </div>
 );
 
 export default PortfolioPage;

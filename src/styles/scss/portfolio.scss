@@ -1,0 +1,46 @@
+.flex-grid {
+  display: flex;
+}
+.col {
+  flex: 1;
+}
+
+.screenshots.flex-grid {
+  display: flex;
+}
+
+
+.title {
+  font-weight: bold;
+}
+
+img.col {
+  width: 25%;
+  
+}
+
+@media (max-width: 400px) {
+  
+  .flex-grid,
+  .flex-grid-thirds {
+    display: block;
+  }
+  img.col {
+    width: 250px;
+    height: 250px;
+}
+}
+
+@media (max-width: 1440px) {
+  .flex-grid {
+    display: grid;
+
+  }
+  .col {
+    flex: 1;
+  }
+  .container {
+    grid-template-columns: 1200px 1fr;
+    grid-template-rows: 1fr auto;
+  }
+}
