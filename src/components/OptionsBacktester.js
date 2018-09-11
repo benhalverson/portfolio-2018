@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import IGOTdefaultview from '../images/IGOT-default-view.png';
 import IGOTadvanceddefaultview from '../images/IGOT-default-view.png';
 import IGOTtableexpanded from '../images/IGOT-table-expanded.png';
@@ -7,7 +7,7 @@ import IGOTsearchresults from '../images/IGOT-search-results.png';
 import IGOTdatepicker from '../images/IGOT-datepicker.png';
 
 const OptionsBacktester = () => (
-  <div>
+  <Fragment>
     <div className="title">E-Trade Options Backtester</div>
     <div className="body">
       <p className="description">
@@ -23,7 +23,7 @@ const OptionsBacktester = () => (
         <img className="col" src={IGOTdatepicker} alt="" />
       </div>
     </div>
-  </div>
+  </Fragment>
 );
 
 export default OptionsBacktester;

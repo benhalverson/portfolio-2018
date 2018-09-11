@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import OptionsIncomeFinderDefaultView from '../images/OptionsIncomeFinderDefaultView.png';
 import OptionsIncomeFinderAdditionalFilters from '../images/OptionsIncomeFinderAdditionalFilters.png';
 import OptionsIncomeFinderExpandedResults from '../images/OptionsIncomeFinderExpandedResults.png';
@@ -7,7 +7,7 @@ import OptionsIncomeFinderResults from '../images/OptionsIncomeFinderResults.png
 import OptionsIncomeFinderSearch from '../images/OptionsIncomeFinderSearch.png';
 
 const OptionsIncomeFinder = () => (
-  <div>
+  <Fragment>
     <div className="title">E-Trade Options Income Finder</div>
     <div className="body">
       <p className="description">
@@ -27,6 +27,6 @@ const OptionsIncomeFinder = () => (
         <img className="col" src={OptionsIncomeFinderMiniBacktester} alt="" />
       </div>
     </div>
-  </div>
+  </Fragment>
 );
 export default OptionsIncomeFinder;

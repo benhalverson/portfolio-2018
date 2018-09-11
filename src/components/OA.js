@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 
 import OAdefaultview from '../images/OA-default-view.png';
 import OAresults from '../images/OA-results.png';
@@ -6,7 +6,7 @@ import OAchart from '../images/OA-chart.png';
 import OAtablechart from '../images/OA-table-chart.png';
 
 const OA = () => (
-  <div>
+  <Fragment>
     <div className="title">E-Trade Options Analyzer</div>
     <div className="body">
       <p className="description">
@@ -21,7 +21,7 @@ const OA = () => (
         <img className="col" src={OAtablechart} alt="" />
       </div>
     </div>
-  </div>
+  </Fragment>
 );
 
 export default OA;

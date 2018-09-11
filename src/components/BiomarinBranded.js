@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import BiomarinCaseStudies from '../images/BiomarinCaseStudies.png';
 import BiomarinCaseStudy from '../images/BiomarinCaseStudy.png';
 import BiomarinCaseStudyWithAnswer from '../images/BiomarinCaseStudyWithAnswer.png';
@@ -13,7 +13,7 @@ import BiomarinVideoModal2 from '../images/BiomarinVideoModal2.png';
 import BiomarinVideoPlayer from '../images/BiomarinVideoPlayer.png';
 
 const BiomarinBranded = () => (
-  <div>
+  <Fragment>
     <div className="title">BioMarin CLN2 iPad App</div>
         <div className="body">
           <p className="description">
@@ -42,7 +42,7 @@ const BiomarinBranded = () => (
             <img className="col" src={BiomarinSummary} alt="" />
           </div>
         </div>
-  </div>
+  </Fragment>
 );
 
 export default BiomarinBranded;

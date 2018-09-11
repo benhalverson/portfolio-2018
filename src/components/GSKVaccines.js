@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 
 import GSK001 from '../images/GSK001.png';
 import GSK002 from '../images/GSK002.png';
@@ -7,7 +7,7 @@ import GSK004 from '../images/GSK004.png';
 import GSK005 from '../images/GSK005.png';
 
 const GSKVaccines = () => (
-  <div>
+  <Fragment>
      <div className="title">GSK Vaccines Eduaction Module</div>
         <div className="body">
           <p>
@@ -23,7 +23,7 @@ const GSKVaccines = () => (
             <img className="col" src={GSK005} alt="" />
           </div>
         </div>
-  </div>
+  </Fragment>
 );
 
 export default GSKVaccines;
