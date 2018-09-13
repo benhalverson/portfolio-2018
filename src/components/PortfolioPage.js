@@ -7,9 +7,12 @@ import BiomarinBranded from './BiomarinBranded';
 import BiomarinUnBranded from './BiomarinUnbranded';
 import GSKVaccines from './GSKVaccines';
 import JazzErwinaze from './JazzErwinaze';
+import PortfolioFilter from './PortfolioFilter';
+
 
 const PortfolioPage = () => (
   <div className="container">
+    <PortfolioFilter className="filter"/>
     <div className="flex-grid">
       <div className="col">
       <OA />
