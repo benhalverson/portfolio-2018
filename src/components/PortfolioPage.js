@@ -9,13 +9,12 @@ import GSKVaccines from './GSKVaccines';
 import JazzErwinaze from './JazzErwinaze';
 import PortfolioFilter from './PortfolioFilter';
 
-
 const PortfolioPage = () => (
   <div className="container">
-    <PortfolioFilter className="filter"/>
+    <PortfolioFilter className="filter" />
     <div className="flex-grid">
       <div className="col">
-      <OA />
+        <OA />
       </div>
       <div className="col">
         <OptionsIncomeFinder />
@@ -30,14 +29,14 @@ const PortfolioPage = () => (
         <BiomarinBranded />
       </div>
       <div className="col">
-       <BiomarinUnBranded />
+        <BiomarinUnBranded />
       </div>
       <div className="col">
-       <GSKVaccines/>
+        <GSKVaccines />
       </div>
       <div className="col">
-         <JazzErwinaze />
-        </div>
+        <JazzErwinaze />
+      </div>
     </div>
   </div>
 );

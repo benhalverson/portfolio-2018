@@ -20,10 +20,10 @@
   font-size: 1.5em;
   width: 100%;
   display: grid;
-  grid-template-areas: 
-    "sidebar"
-    "content"
-    "footer";
+  grid-template-areas:
+    'sidebar'
+    'content'
+    'footer';
   grid-template-columns: 1fr;
   grid-template-rows: 130px, 800px, 250px;
   min-height: calc(200vh - 70px);
@@ -105,8 +105,8 @@ nav a:hover {
 @media (min-width: 1040px) {
   .container {
     grid-template-areas:
-      "sidebar content"
-      "sidebar footer";
+      'sidebar content'
+      'sidebar footer';
     grid-template-columns: 300px 1fr;
     grid-template-rows: 1fr auto;
   }

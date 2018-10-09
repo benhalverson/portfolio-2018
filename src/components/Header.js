@@ -7,16 +7,16 @@ const Header = () => (
       <nav>
         <NavLink to="/" activeClassName="is-active" exact={true}>
           About
-        </NavLink>&nbsp;
-
+        </NavLink>
+        &nbsp;
         <NavLink to="/portfolio" activeClassName="is-active">
           Portfolio
-        </NavLink>&nbsp;
-
+        </NavLink>
+        &nbsp;
         <NavLink to="/blog" activeClassName="is-active">
           Blog
-        </NavLink>&nbsp;
-
+        </NavLink>
+        &nbsp;
         <NavLink to="/contact" activeClassName="is-active">
           Contact
         </NavLink>

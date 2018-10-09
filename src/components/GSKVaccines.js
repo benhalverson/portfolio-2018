@@ -8,21 +8,21 @@ import GSK005 from '../images/GSK005.png';
 
 const GSKVaccines = () => (
   <Fragment>
-     <div className="title">GSK Vaccines Eduaction Module</div>
-        <div className="body">
-          <p>
-            This was a Web app based on an education framework called Adapt
-            Learning. It was selected because of a really short deadline given
-            by the client. The technology it used was Backbone.js and SCSS.
-          </p>
-          <div className="screenshots">
-            <img className="col" src={GSK001} alt="" />
-            <img className="col" src={GSK002} alt="" />
-            <img className="col" src={GSK003} alt="" />
-            <img className="col" src={GSK004} alt="" />
-            <img className="col" src={GSK005} alt="" />
-          </div>
-        </div>
+    <div className="title">GSK Vaccines Eduaction Module</div>
+    <div className="body">
+      <p>
+        This was a Web app based on an education framework called Adapt
+        Learning. It was selected because of a really short deadline given by
+        the client. The technology it used was Backbone.js and SCSS.
+      </p>
+      <div className="screenshots">
+        <img className="col" src={GSK001} alt="" />
+        <img className="col" src={GSK002} alt="" />
+        <img className="col" src={GSK003} alt="" />
+        <img className="col" src={GSK004} alt="" />
+        <img className="col" src={GSK005} alt="" />
+      </div>
+    </div>
   </Fragment>
 );
 
